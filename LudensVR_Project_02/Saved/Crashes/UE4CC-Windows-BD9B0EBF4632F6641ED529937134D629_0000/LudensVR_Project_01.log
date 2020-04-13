@@ -1,0 +1,258 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+Stats thread started at 0.702254
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin LightPropagationVolume
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin AssetManagerEditor
+Mounting plugin CryptoKeys
+Mounting plugin DataValidation
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MeshEditor
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin DatasmithContent
+Mounting plugin AlembicImporter
+Mounting plugin AppleImageUtils
+Mounting plugin AppleVision
+Mounting plugin BackChannel
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin HTML5Networking
+Mounting plugin ProxyLODPlugin
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapEmulator
+Mounting plugin MagicLeapMedia
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin LinearTimecode
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WmfMedia
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin NetcodeUnitTest
+Mounting plugin NUTUnrealEngine4
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AudioCapture
+Mounting plugin CableComponent
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin ImmediatePhysics
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OculusVR
+Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+Mounting plugin PhysXVehicles
+Mounting plugin ProceduralMeshComponent
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SteamVR
+Mounting plugin WindowsMoviePlayer
+Took  0.116s to configure plugins.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.0.2h
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Build: ++UE4+Release-4.20-CL-4369336
+Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+Net CL: 4212847
+OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz, GPU: NVIDIA Quadro M5000
+Compiled (64-bit): Sep 17 2018 12:26:19
+Compiled with Visual C++: 19.13.26129.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.20
+Command Line:  -skipcompile
+Base Directory: D:/Epic Games/UE_4.20/UE_4.20/Engine/Binaries/Win64/
+Installed Engine Build: 1
+Number of dev versions registered: 20
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+Took  0.002s to delete old logs.
+Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 64 GB [68637433856 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+Going up to parent DeviceProfile []
+Computer: DESKTOP-TNR6L48
+User: 3DCLVenus
+CPU Page size=4096, Cores=10
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=63.9GB (64GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 110.17 MB used, 110.17 MB peak
+Process Virtual Memory: 99.92 MB used, 99.92 MB peak
+Physical Memory: 17292.61 MB used,  48165.14 MB free, 65457.76 MB total
+Virtual Memory: 4720.61 MB used,  48165.14 MB free, 134217728.00 MB total
+Using OS detected language (ko-KR).
+Using OS detected locale (ko-KR).
+No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+Took  0.444s to InitEngineTextLocalization.
+Setting process to per monitor DPI aware
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+D3D11 adapters:
+   0. 'NVIDIA Quadro M5000' (Feature Level 11_0)
+      8144/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter: 0
+Creating new Direct3DDevice
+    GPU DeviceId: 0x13f0 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA Quadro M5000' (P:0 D:1)
+   1. 'NVIDIA Quadro M5000' (P:1 D:1)
+   2. 'NVIDIA Quadro M5000' (P:0 D:0)
+   3. 'NVIDIA Quadro M5000' (P:0 D:0)
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA Quadro M5000
+  Driver Version: 436.02 (internal:26.21.14.3602, unified:436.02)
+     Driver Date: 8-16-2019
+Texture pool is 5701 MB (70% of 8144 MB)
+Async texture creation enabled
+GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Venus_GitHub/LudensVR_Project_02/LudensVR_Project_02/Intermediate/Shaders/WorkingDirectory/15540/).
+Cleaned the shader compiler working directory 'C:/Users/3DCL_Venus/AppData/Local/Temp/UnrealShaderWorkingDir/72E9A4894199F6D1EBEF3E8B256AAEA8/'.
+Loaded TP AllDesktopTargetPlatform
+Loaded TP MacClientTargetPlatform
+Loaded TP MacNoEditorTargetPlatform
+Loaded TP MacServerTargetPlatform
+Loaded TP MacTargetPlatform
+Loaded TP WindowsClientTargetPlatform
+Loaded TP WindowsNoEditorTargetPlatform
+Loaded TP WindowsServerTargetPlatform
+Loaded TP WindowsTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP HTML5TargetPlatform
+Loaded TP IOSTargetPlatform
+Loaded TP IOSTargetPlatform
+Loaded TP TVOSTargetPlatform
+Loaded TP TVOSTargetPlatform
+Loaded TP LinuxClientTargetPlatform
+Loaded TP LinuxNoEditorTargetPlatform
+Loaded TP LinuxServerTargetPlatform
+Loaded TP LinuxTargetPlatform
+Loaded TP LuminTargetPlatform
+Building Assets For Windows
+Cleaning working directory: C:/Users/3DCL_Venus/AppData/Local/Temp/UnrealXGEWorkingDir/
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.13s 124MB C:/Users/3DCL_Venus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/3DCL_Venus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Venus_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Venus_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+Using Local data cache path C:/Users/3DCL_Venus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Verifying Global Shaders for PCD3D_SM5
+Using FreeType 2.6.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.0268 seconds to start up
+DeleteFile was unable to delete '../../../../../../Venus_GitHub/LudensVR_Project_02/LudensVR_Project_02/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+Selected Device Profile: [Windows]
+Simplygon DLL not present - disabling.
+Using SimplygonSwarm for distributed automatic mesh merging
+Using ProxyLODMeshReduction for automatic mesh merging
+Using QuadricMeshReduction for automatic static mesh reduction
+No automatic skeletal mesh reduction module available
+LudensVR_Project_01 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3183368189)
+DeleteFile recovered during retry!
+Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.094250 seconds
+38425 objects as part of root set at end of initial load.
+6690864 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.

@@ -1,0 +1,905 @@
+﻿Log file open, 10/28/19 09:21:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LudensVR_Project_01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.708006
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.147s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Could not determine HMD audio input device
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz, GPU: NVIDIA Quadro M4000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.28-00.21.11:790][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.28-00.21.11:790][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.28-00.21.11:800][  0]LogHAL: Display: Platform has ~ 64 GB [68637433856 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.28-00.21.11:800][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.10.28-00.21.11:800][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.28-00.21.11:801][  0]LogInit: Computer: 3DCL-MARS
+[2019.10.28-00.21.11:801][  0]LogInit: User: 3DCLGamma
+[2019.10.28-00.21.11:801][  0]LogInit: CPU Page size=4096, Cores=10
+[2019.10.28-00.21.11:801][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.28-00.21.11:801][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.10.28-00.21.11:801][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.28-00.21.11:801][  0]LogMemory: Process Physical Memory: 111.98 MB used, 111.98 MB peak
+[2019.10.28-00.21.11:801][  0]LogMemory: Process Virtual Memory: 100.18 MB used, 100.18 MB peak
+[2019.10.28-00.21.11:801][  0]LogMemory: Physical Memory: 15793.91 MB used,  49663.85 MB free, 65457.76 MB total
+[2019.10.28-00.21.11:801][  0]LogMemory: Virtual Memory: 4706.70 MB used,  49663.85 MB free, 134217728.00 MB total
+[2019.10.28-00.21.11:830][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.28-00.21.11:830][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.28-00.21.11:831][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.28-00.21.12:260][  0]LogStreaming: Display: Took  0.432s to InitEngineTextLocalization.
+[2019.10.28-00.21.12:261][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.28-00.21.12:335][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.28-00.21.12:335][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.28-00.21.12:839][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.28-00.21.12:931][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2019.10.28-00.21.12:932][  0]LogD3D11RHI:       8144/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.28-00.21.12:935][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.28-00.21.12:935][  0]LogD3D11RHI:       0/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.28-00.21.12:935][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.28-00.21.12:945][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.28-00.21.12:945][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.28-00.21.12:945][  0]LogWindows: EnumDisplayDevices:
+[2019.10.28-00.21.12:945][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2019.10.28-00.21.12:946][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:1)
+[2019.10.28-00.21.12:947][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.10.28-00.21.12:948][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.10.28-00.21.12:949][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.28-00.21.12:949][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2019.10.28-00.21.12:949][  0]LogD3D11RHI:   Driver Version: 416.78 (internal:25.21.14.1678, unified:416.78)
+[2019.10.28-00.21.12:949][  0]LogD3D11RHI:      Driver Date: 11-1-2018
+[2019.10.28-00.21.12:949][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2019.10.28-00.21.13:011][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.28-00.21.13:038][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.28-00.21.13:047][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Intermediate/Shaders/WorkingDirectory/14548/).
+[2019.10.28-00.21.13:047][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealShaderWorkingDir/2D0B9F6A4C439DE42E015D894DD7AF21/'.
+[2019.10.28-00.21.13:468][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.28-00.21.13:487][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.28-00.21.13:507][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.28-00.21.13:526][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.28-00.21.13:546][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.28-00.21.13:565][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.28-00.21.13:584][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.28-00.21.13:604][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.28-00.21.13:612][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:716][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.28-00.21.13:719][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.28-00.21.13:789][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.28-00.21.13:789][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.28-00.21.13:821][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.28-00.21.13:821][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.28-00.21.13:838][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.28-00.21.13:855][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.28-00.21.13:872][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.28-00.21.13:889][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.28-00.21.13:901][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.28-00.21.13:901][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.28-00.21.13:974][  0]LogXGEController: Cleaning working directory: C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.28-00.21.13:974][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.28-00.21.13:974][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.28-00.21.13:974][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.28-00.21.14:932][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.28-00.21.15:030][  0]LogDerivedDataCache: Loaded boot cache 0.10s 113MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.28-00.21.15:030][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.10.28-00.21.15:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.28-00.21.15:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.28-00.21.15:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.28-00.21.15:030][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.28-00.21.15:050][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.28-00.21.15:064][  0]LogDerivedDataCache: Using Local data cache path C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.28-00.21.15:064][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.28-00.21.15:064][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.28-00.21.15:086][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.28-00.21.15:088][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.28-00.21.15:089][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.28-00.21.15:206][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2019.10.28-00.21.15:638][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.28-00.21.15:801][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.28-00.21.15:806][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.28-00.21.15:806][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.28-00.21.15:806][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.28-00.21.15:806][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.28-00.21.15:844][  0]LogNetVersion: LudensVR_Project_01 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3183368189)
+[2019.10.28-00.21.16:457][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.098777 seconds
+[2019.10.28-00.21.16:462][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.10.28-00.21.16:462][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.10.28-00.21.16:462][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.28-00.21.17:886][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.28-00.21.17:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.28-00.21.18:624][  0]LogPhysics: Error: PHYSX: (D:\Build\++UE4+Release-4.20+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2019.10.28-00.21.18:624][  0]LogPhysics: Error: PHYSX: (D:\Build\++UE4+Release-4.20+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2019.10.28-00.21.18:624][  0]LogPhysics: Warning: Failed to cook convex: /Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01 0 (FlipX:0). The remaining elements will not get cooked.
+[2019.10.28-00.21.18:624][  0]LogPhysics: Error: PHYSX: (D:\Build\++UE4+Release-4.20+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2019.10.28-00.21.18:624][  0]LogPhysics: Error: PHYSX: (D:\Build\++UE4+Release-4.20+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2019.10.28-00.21.18:624][  0]LogPhysics: Warning: Failed to cook convex: /Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01 0 (FlipX:1). The remaining elements will not get cooked.
+[2019.10.28-00.21.18:624][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01:BodySetup_1 when we are unable to.
+[2019.10.28-00.21.18:957][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.28-00.21.18:957][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.28-00.21.18:958][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.28-00.21.18:959][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.28-00.21.19:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.28-00.21.19:311][  0]LogOcInput: OculusInput pre-init called
+[2019.10.28-00.21.19:387][  0]LogEngine: Initializing Engine...
+[2019.10.28-00.21.19:388][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2019.10.28-00.21.19:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.28-00.21.19:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.28-00.21.19:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.28-00.21.19:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.28-00.21.19:657][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.28-00.21.19:673][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.28-00.21.19:732][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.28-00.21.20:042][  0]LogInit: FAudioDevice initialized.
+[2019.10.28-00.21.20:042][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.28-00.21.20:152][  0]LogDerivedDataCache: Saved boot cache 0.11s 113MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.28-00.21.20:159][  0]LogInit: Texture streaming: Enabled
+[2019.10.28-00.21.20:191][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.28-00.21.20:191][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={F3D0041C-44F4-E137-673E-7CA454B446D1}
+[2019.10.28-00.21.20:209][  0]LogInit: Transaction tracking system initialized
+[2019.10.28-00.21.20:245][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.28-00.21.20:380][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.28-00.21.20:454][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.10.28-00.21.20:455][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.10.28-00.21.20:455][  0]LogUObjectGlobals: Warning: 'Class /Game/SciFi_Weapons/Tutorial.Tutorial_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.28-00.21.20:705][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.28-00.21.20:705][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.28-00.21.20:705][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.28-00.21.20:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.28-00.21.20:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.28-00.21.20:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.28-00.21.20:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.28-00.21.20:861][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 0.03s
+[2019.10.28-00.21.20:861][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.28-00.21.20:861][  0]Cmd: MAP LOAD FILE="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Map/Natalis_Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.28-00.21.20:862][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.28-00.21.20:865][  0]MapCheck: New page: 맵 체크
+[2019.10.28-00.21.20:865][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.28-00.21.24:308][  0]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.10.28-00.21.24:310][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:310][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:310][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:310][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:311][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:312][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:313][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:314][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:315][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:316][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:317][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:318][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:327][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:327][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:327][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:327][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:342][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:342][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:344][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:344][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:345][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:346][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:347][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:348][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:349][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:349][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:349][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:349][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:349][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:349][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:350][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:351][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:351][  0]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows.M_LightStage_Arrows needed to have new flag set bUsedWithStaticLighting !
+[2019.10.28-00.21.24:354][  0]LogMaterial: Display: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2019.10.28-00.21.24:368][  0]MapCheck: Warning: M_LightStage_Arrows /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows.M_LightStage_Arrows 머티리얼이 bUsedWithStaticLighting 사용 플래그에 빠져있었습니다. 머티리얼 애셋이 재저장되지 않은 경우, 에디터 밖에서 실행시 제대로 렌더링되지 않을 수 있습니다. 픽스
+[2019.10.28-00.21.24:372][  0]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.28-00.21.24:372][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:372][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:372][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:372][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:372][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:372][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:373][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:373][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:373][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:373][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:373][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.21.24:373][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.21.24:393][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.28-00.21.24:445][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.28-00.21.24:996][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 1 회, 소요 시간 551.41ms.
+[2019.10.28-00.21.25:046][  0]LogFileHelpers: Loading map 'Natalis_Map_01' took 4.184
+[2019.10.28-00.21.25:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-00.21.25:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-00.21.25:210][  0]LogCollectionManager: Loaded 0 collections in 0.002360 seconds
+[2019.10.28-00.21.25:267][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Collections/' took 0.01s
+[2019.10.28-00.21.25:267][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Developers/3DCLGamma/Collections/' took 0.01s
+[2019.10.28-00.21.25:267][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Collections/' took 0.01s
+[2019.10.28-00.21.25:267][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.28-00.21.25:279][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2596 classes and 607 folders.
+[2019.10.28-00.21.25:287][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.28-00.21.25:375][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.28-00.21.25:387][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.28-00.21.25:409][  0]LogSlate: Took 0.000469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.28-00.21.25:413][  0]LogSlate: Took 0.002907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.28-00.21.25:417][  0]LogSlate: Took 0.002576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.28-00.21.25:417][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.28-00.21.25:422][  0]LogSlate: Took 0.000521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.28-00.21.25:532][  0]LogRenderer: Reallocating scene render targets to support 588x332 Format 10 NumSamples 1 (Frame:1).
+[2019.10.28-00.21.25:590][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 26 NumSamples 1 (Frame:1).
+[2019.10.28-00.21.25:668][  0]LogSlate: Took 0.002953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.28-00.21.25:772][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.10.28-00.21.25:773][  0]LogLoad: (Engine Initialization) Total time: 16.85 seconds
+[2019.10.28-00.21.25:773][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.28-00.21.25:792][  0]LogOcInput: OculusInput is initialized
+[2019.10.28-00.21.25:826][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.28-00.21.25:879][  0]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.28-00.21.26:089][  5]LogAssetRegistry: Asset discovery search completed in 10.9069 seconds
+[2019.10.28-00.21.26:092][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.28-00.21.26:092][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2019.10.28-00.21.31:099][ 20]LogFileCache: Retrieving MD5 hashes for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 5.29s
+[2019.10.28-00.23.31:581][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-00.24.38:715][828]LogEditorViewport: Clicking on Actor (LMB): LV_Mannequin (LV_Mannequin5)
+[2019.10.28-00.24.39:842][961]LogEditorViewport: Clicking on Actor (LMB): LV_Mannequin (LV_Mannequin5)
+[2019.10.28-00.24.40:805][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-00.24.42:321][253]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.28-00.24.55:179][716]Cmd: TRANSACTION UNDO
+[2019.10.28-00.24.55:179][716]LogEditorTransaction: Undo 컴포넌트 이동
+[2019.10.28-00.24.55:207][716]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.28-00.24.56:189][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-00.25.32:329][897]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Child)
+[2019.10.28-00.25.33:746][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-00.26.28:155][479]LogEditorViewport: Clicking Background
+[2019.10.28-00.26.28:293][494]Cmd: TRANSACTION UNDO
+[2019.10.28-00.26.28:293][494]LogEditorTransaction: Undo 배경 클릭
+[2019.10.28-00.26.28:772][533]Cmd: TRANSACTION UNDO
+[2019.10.28-00.26.28:772][533]LogEditorTransaction: Undo 컴포넌트 이동
+[2019.10.28-00.26.51:221][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_Wall_5)
+[2019.10.28-00.26.52:585][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-00.27.02:752][284]Candidate modules for hot reload:
+[2019.10.28-00.27.02:752][284]  LudensVR_Project_01
+[2019.10.28-00.27.02:752][284]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,2340 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.10.28-00.27.02:755][284]Warning: Starting HotReload took  0.1s.
+[2019.10.28-00.27.32:230][396]CompilerResultsLog: New page: 컴파일 - 2019. 10. 28. 오후 6:27:32
+[2019.10.28-00.27.32:230][396]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.10.28-00.27.32:230][396]CompilerResultsLog: Compiling game modules for hot reload
+[2019.10.28-00.27.32:230][396]CompilerResultsLog: Parsing headers for LudensVR_Project_01Editor
+[2019.10.28-00.27.32:230][396]CompilerResultsLog:   Running UnrealHeaderTool "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\LudensVR_Project_01.uproject" "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\LudensVR_Project_01Editor\Development\LudensVR_Project_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.28-00.27.32:230][396]CompilerResultsLog: Reflection code generated for LudensVR_Project_01Editor in 13.262644 seconds
+[2019.10.28-00.27.32:231][396]CompilerResultsLog: Building 10 actions with 20 processes...
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [1/10] LV_Mannequin.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Source\LudensVR_Project_01\Public\Object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [2/10] LV_Mannequin.gen.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Source\LudensVR_Project_01/Public/Object/LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [3/10] LV_NewsPaper.gen.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\public\object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [4/10] LV_Event.gen.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Source\LudensVR_Project_01\Public\Object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [5/10] LV_NewsPaper.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\public\object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [6/10] LV_Event.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Source\LudensVR_Project_01\Public\Object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [7/10] GM_LobbyWidget.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Source\LudensVR_Project_01\Public\Object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:   [8/10] LV_Diary.cpp
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:    D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Source\LudensVR_Project_01\Public\Object\LV_Mannequin.h(44) : error C4596: 'Set_WorldLocation': ??? ?????? ??????? ????? ???????????.
+[2019.10.28-00.27.32:231][396]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Binaries\Win64\UE4Editor-LudensVR_Project_01-2340.dll
+[2019.10.28-00.27.32:231][396]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.10.28-00.27.32:231][396]CompilerResultsLog: Total build time: 28.87 seconds (Parallel executor: 0.00 seconds)
+[2019.10.28-00.27.32:231][396]LogMainFrame: MainFrame: Module compiling took 29.501 seconds
+[2019.10.28-00.27.32:231][396]Warning: HotReload failed, recompile failed
+[2019.10.28-00.27.34:374][491]Candidate modules for hot reload:
+[2019.10.28-00.27.34:374][491]  LudensVR_Project_01
+[2019.10.28-00.27.34:374][491]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,9020 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.10.28-00.27.34:377][491]Warning: Starting HotReload took  0.0s.
+[2019.10.28-00.28.13:492][247]CompilerResultsLog: New page: 컴파일 - 2019. 10. 28. 오후 6:28:13
+[2019.10.28-00.28.13:493][247]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.10.28-00.28.13:493][247]CompilerResultsLog: Compiling game modules for hot reload
+[2019.10.28-00.28.13:493][247]CompilerResultsLog: Parsing headers for LudensVR_Project_01Editor
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   Running UnrealHeaderTool "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\LudensVR_Project_01.uproject" "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\LudensVR_Project_01Editor\Development\LudensVR_Project_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.28-00.28.13:493][247]CompilerResultsLog: Reflection code generated for LudensVR_Project_01Editor in 13.8327693 seconds
+[2019.10.28-00.28.13:493][247]CompilerResultsLog: Building 10 actions with 20 processes...
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [1/10] LV_Mannequin.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [2/10] LV_Mannequin.gen.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [3/10] LV_NewsPaper.gen.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [4/10] LV_Event.gen.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [5/10] LV_NewsPaper.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [6/10] GM_LobbyWidget.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [7/10] LV_Diary.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [8/10] LV_Event.cpp
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [9/10] UE4Editor-LudensVR_Project_01-9020.lib
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9020.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9020.exp ??u?? ??????? ??????.
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:   [10/10] UE4Editor-LudensVR_Project_01-9020.dll
+[2019.10.28-00.28.13:493][247]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9020.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9020.suppressed.exp ??u?? ??????? ??????.
+[2019.10.28-00.28.13:493][247]CompilerResultsLog: Total build time: 38.67 seconds (Parallel executor: 22.16 seconds)
+[2019.10.28-00.28.13:493][247]LogMainFrame: MainFrame: Module compiling took 39.140 seconds
+[2019.10.28-00.28.13:576][247]LogClass: EDIARYPAGE HotReload.
+[2019.10.28-00.28.13:577][247]LogClass: EButtonEnum HotReload.
+[2019.10.28-00.28.13:577][247]LogClass: EGrip_Object HotReload.
+[2019.10.28-00.28.13:577][247]LogClass: EGrip_Code HotReload.
+[2019.10.28-00.28.13:583][247]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.10.28-00.28.13:695][247]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.10.28-00.28.13:795][247]LogHotReload: Re-instancing LV_Mannequin after hot-reload.
+[2019.10.28-00.28.13:933][247]LogHotReload: Re-instancing LV_Stair after hot-reload.
+[2019.10.28-00.28.13:933][247]LogActor: Warning: LV_Stair /Game/Map/Natalis_Map_01.Natalis_Map_01:PersistentLevel.LV_Stair_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.10.28-00.28.14:033][247]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0008 seconds. Added 24 classes and 4 folders.
+[2019.10.28-00.28.14:037][247]Display: HotReload successful (80 functions remapped  0 scriptstructs remapped)
+[2019.10.28-00.28.14:319][247]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2597 classes and 609 folders.
+[2019.10.28-00.28.14:322][247]Display: HotReload took 40.0s.
+[2019.10.28-00.28.27:877][713]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.28-00.28.27:897][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.28-00.28.27:897][713]LogHMD: Initializing OVRPlugin session
+[2019.10.28-00.28.28:008][713]PIE: New page: PIE 세션: Natalis_Map_01 (2019. 10. 28. 오후 6:28:28)
+[2019.10.28-00.28.28:008][713]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.10.28-00.28.28:087][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078441s)
+[2019.10.28-00.28.28:088][713]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.10.28-00.28.28:088][713]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2019.10.28-00.28.28:088][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.079881s)
+[2019.10.28-00.28.28:182][713]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.28-00.28.28:224][713]LogInit: FAudioDevice initialized.
+[2019.10.28-00.28.28:256][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-00.28.28:376][713]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.10.28-00.28.28:418][713]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:421][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:422][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:422][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:422][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:422][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:422][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:422][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:423][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:423][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:423][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:423][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:423][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:424][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:425][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:426][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:427][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:428][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:428][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:428][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:428][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:428][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:428][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:429][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:430][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:431][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:432][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:433][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:433][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:433][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:433][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:433][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:433][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:442][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:442][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:442][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:442][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:451][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:451][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:451][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:451][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:452][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:453][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:454][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:455][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:456][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:457][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:458][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:458][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:458][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:458][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:458][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:461][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:461][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:461][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:461][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:461][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:461][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:462][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:462][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:462][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:462][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:462][713]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.10.28-00.28.28:462][713]LogPhysics: Warning: ForeachShape(Convex): [/Game/Victorian_House/Meshes/ModularElements/Mesh_Wall_01.Mesh_Wall_01] ScaledElem[0] invalid
+[2019.10.28-00.28.28:465][713]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.10.28-09.28.28
+[2019.10.28-00.28.28:469][713]LogWorld: Bringing up level for play took: 0.049736
+[2019.10.28-00.28.28:530][713]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.10.28-00.28.28:535][713]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.28-00.28.28:535][713]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.28-00.28.28:540][713]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.639
+[2019.10.28-00.28.28:541][713]LogEngine: Changing dynamic resolution state.
+[2019.10.28-00.28.28:556][713]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.10.28-00.28.28:556][713]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.10.28-00.28.28:556][713]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.10.28-00.28.28:556][713]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.10.28-00.28.28:556][713]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.10.28-00.28.28:556][713]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.10.28-00.28.28:565][713]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2019.10.28-00.28.28:565][713]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.10.28-00.30.24:691][616]PIE: Warning: /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01:PersistentLevel.LV_Door4 의 모빌리티: 이동 작업을 위해서는 RootMesh 가 '무버블'이어야 합니다. 
+[2019.10.28-00.30.24:691][616]PIE: Warning: /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01:PersistentLevel.LV_Door6 의 모빌리티: 이동 작업을 위해서는 RootMesh 가 '무버블'이어야 합니다. 

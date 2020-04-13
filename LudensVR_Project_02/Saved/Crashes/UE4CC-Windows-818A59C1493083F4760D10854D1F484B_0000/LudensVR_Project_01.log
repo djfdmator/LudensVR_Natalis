@@ -1,0 +1,874 @@
+﻿Log file open, 07/10/19 13:21:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LudensVR_Project_01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.717019
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.184s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz, GPU: NVIDIA Quadro M4000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.07.10-04.21.49:359][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.10-04.21.49:359][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.10-04.21.49:371][  0]LogHAL: Display: Platform has ~ 64 GB [68637433856 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.10-04.21.49:371][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.07.10-04.21.49:371][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.10-04.21.49:372][  0]LogInit: Computer: 3DCL-MARS
+[2019.07.10-04.21.49:372][  0]LogInit: User: 3DCLGamma
+[2019.07.10-04.21.49:372][  0]LogInit: CPU Page size=4096, Cores=10
+[2019.07.10-04.21.49:373][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2019.07.10-04.21.49:373][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.07.10-04.21.49:373][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.10-04.21.49:373][  0]LogMemory: Process Physical Memory: 111.23 MB used, 111.23 MB peak
+[2019.07.10-04.21.49:373][  0]LogMemory: Process Virtual Memory: 98.13 MB used, 98.13 MB peak
+[2019.07.10-04.21.49:373][  0]LogMemory: Physical Memory: 8317.57 MB used,  57140.19 MB free, 65457.76 MB total
+[2019.07.10-04.21.49:373][  0]LogMemory: Virtual Memory: 4716.53 MB used,  57140.19 MB free, 134217728.00 MB total
+[2019.07.10-04.21.49:411][  0]LogInit: Using OS detected language (ko-KR).
+[2019.07.10-04.21.49:411][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.07.10-04.21.49:413][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.07.10-04.21.49:862][  0]LogStreaming: Display: Took  0.451s to InitEngineTextLocalization.
+[2019.07.10-04.21.49:862][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.10-04.21.49:925][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.10-04.21.49:925][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.10-04.21.50:555][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.10-04.21.50:667][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2019.07.10-04.21.50:667][  0]LogD3D11RHI:       8144/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.07.10-04.21.50:671][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.10-04.21.50:671][  0]LogD3D11RHI:       0/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.10-04.21.50:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.10-04.21.50:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.10-04.21.50:684][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.10-04.21.50:684][  0]LogWindows: EnumDisplayDevices:
+[2019.07.10-04.21.50:684][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2019.07.10-04.21.50:685][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:1)
+[2019.07.10-04.21.50:686][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.07.10-04.21.50:687][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.07.10-04.21.50:687][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.10-04.21.50:687][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2019.07.10-04.21.50:687][  0]LogD3D11RHI:   Driver Version: 416.78 (internal:25.21.14.1678, unified:416.78)
+[2019.07.10-04.21.50:687][  0]LogD3D11RHI:      Driver Date: 11-1-2018
+[2019.07.10-04.21.50:687][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2019.07.10-04.21.50:760][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.10-04.21.50:801][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.10-04.21.50:812][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Intermediate/Shaders/WorkingDirectory/11236/).
+[2019.07.10-04.21.50:812][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealShaderWorkingDir/5AD24AB041D25F4A896F8E906C75CC99/'.
+[2019.07.10-04.21.51:296][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.07.10-04.21.51:313][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.07.10-04.21.51:329][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.07.10-04.21.51:348][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.07.10-04.21.51:368][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.07.10-04.21.51:385][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.07.10-04.21.51:402][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.07.10-04.21.51:420][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.07.10-04.21.51:428][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.10-04.21.51:525][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.07.10-04.21.51:596][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.10-04.21.51:596][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.10-04.21.51:626][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.10-04.21.51:626][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.10-04.21.51:642][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.07.10-04.21.51:658][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.07.10-04.21.51:674][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.07.10-04.21.51:691][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.07.10-04.21.51:702][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.10-04.21.51:702][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.10-04.21.51:794][  0]LogXGEController: Cleaning working directory: C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.10-04.21.51:794][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.10-04.21.51:794][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.10-04.21.51:794][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.10-04.21.52:833][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.10-04.21.53:195][  0]LogDerivedDataCache: Loaded boot cache 0.36s 264MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.07.10-04.21.53:195][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.07.10-04.21.53:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.10-04.21.53:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.10-04.21.53:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.10-04.21.53:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.10-04.21.53:213][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.10-04.21.53:227][  0]LogDerivedDataCache: Using Local data cache path C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.10-04.21.53:227][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.10-04.21.53:227][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.10-04.21.53:250][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.10-04.21.53:251][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.10-04.21.53:253][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.10-04.21.53:388][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2019.07.10-04.21.53:792][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.10-04.21.53:978][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.07.10-04.21.53:985][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.07.10-04.21.53:985][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.10-04.21.53:985][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.10-04.21.53:985][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.07.10-04.21.54:027][  0]LogNetVersion: LudensVR_Project_01 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3183368189)
+[2019.07.10-04.21.54:771][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.133728 seconds
+[2019.07.10-04.21.54:777][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.07.10-04.21.54:777][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.07.10-04.21.54:777][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.10-04.21.56:514][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.10-04.21.56:542][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.10-04.21.57:100][  0]LogLinker: Error: HOTRELOADED_EGrip_Code_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Natalis/Hand/VR_PlayerHand_BP.uasset)
+[2019.07.10-04.21.57:103][  0]LogLinker: Error: HOTRELOADED_EGrip_Code_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Natalis/Hand/VR_PlayerHand_BP.uasset)
+[2019.07.10-04.21.57:104][  0]LogLinker: Error: HOTRELOADED_EGrip_Code_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Natalis/Hand/VR_PlayerHand_BP.uasset)
+[2019.07.10-04.21.57:350][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.07.10-04.21.57:350][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.07.10-04.21.57:353][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.07.10-04.21.57:355][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.07.10-04.21.57:553][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.10-04.21.57:713][  0]LogOcInput: OculusInput pre-init called
+[2019.07.10-04.21.57:795][  0]LogEngine: Initializing Engine...
+[2019.07.10-04.21.57:796][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2019.07.10-04.21.57:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.10-04.21.57:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.10-04.21.57:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.10-04.21.57:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.10-04.21.58:087][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.10-04.21.58:108][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.10-04.21.58:165][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.10-04.21.58:455][  0]LogInit: FAudioDevice initialized.
+[2019.07.10-04.21.58:455][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.10-04.21.58:758][  0]LogDerivedDataCache: Saved boot cache 0.30s 264MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.07.10-04.21.58:824][  0]LogInit: Texture streaming: Enabled
+[2019.07.10-04.21.58:851][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.10-04.21.58:873][  0]LogInit: Transaction tracking system initialized
+[2019.07.10-04.21.58:915][  0]BlueprintLog: New page: 에디터 로드
+[2019.07.10-04.21.59:049][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.07.10-04.21.59:268][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.07.10-04.21.59:268][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.07.10-04.21.59:268][  0]LogUObjectGlobals: Warning: 'Class /Game/SciFi_Weapons/Tutorial.Tutorial_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.07.10-04.21.59:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.10-04.21.59:530][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.10-04.21.59:530][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.10-04.21.59:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.10-04.21.59:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.10-04.21.59:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.10-04.21.59:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.10-04.21.59:730][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 0.04s
+[2019.07.10-04.21.59:730][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.07.10-04.21.59:753][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2019.07.10-04.21.59:889][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.07.10-04.21.59:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.07.10-04.21.59:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.07.10-04.22.00:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.07.10-04.22.00:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.07.10-04.22.00:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.07.10-04.22.00:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.07.10-04.22.00:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.07.10-04.22.00:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.07.10-04.22.00:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.07.10-04.22.00:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.07.10-04.22.00:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.07.10-04.22.00:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.07.10-04.22.00:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.07.10-04.22.00:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.07.10-04.22.00:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.07.10-04.22.00:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.07.10-04.22.00:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.07.10-04.22.00:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Fire01.uasset"
+[2019.07.10-04.22.00:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.07.10-04.22.00:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.07.10-04.22.00:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.07.10-04.22.01:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Light01.uasset"
+[2019.07.10-04.22.01:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.07.10-04.22.01:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Light02.uasset"
+[2019.07.10-04.22.01:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.07.10-04.22.01:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.07.10-04.22.01:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.07.10-04.22.01:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.07.10-04.22.01:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.07.10-04.22.02:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.07.10-04.22.02:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.07.10-04.22.02:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.07.10-04.22.03:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.07.10-04.22.03:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Steam01.uasset"
+[2019.07.10-04.22.03:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.07.10-04.22.03:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.07.10-04.22.03:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.07.10-04.22.03:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.07.10-04.22.03:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.07.10-04.22.03:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.07.10-04.22.03:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.07.10-04.22.03:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.07.10-04.22.03:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.07.10-04.22.03:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.07.10-04.22.03:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.07.10-04.22.03:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.07.10-04.22.03:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.07.10-04.22.03:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.07.10-04.22.03:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.07.10-04.22.04:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.07.10-04.22.04:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.07.10-04.22.07:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.07.10-04.22.07:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.07.10-04.22.07:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.07.10-04.22.08:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.07.10-04.22.08:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.07.10-04.22.08:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Maps/StarterMap.umap"
+[2019.07.10-04.22.09:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.07.10-04.22.09:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.07.10-04.22.09:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.07.10-04.22.10:131][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Basic_Wall.uasset".
+[2019.07.10-04.22.10:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.07.10-04.22.10:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.07.10-04.22.10:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.07.10-04.22.10:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.07.10-04.22.10:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.07.10-04.22.10:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.07.10-04.22.10:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.07.10-04.22.10:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.07.10-04.22.10:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.07.10-04.22.10:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.07.10-04.22.10:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.07.10-04.22.10:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.07.10-04.22.11:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.07.10-04.22.11:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.07.10-04.22.11:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.07.10-04.22.11:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.07.10-04.22.11:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.07.10-04.22.11:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.07.10-04.22.11:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.07.10-04.22.11:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.07.10-04.22.11:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.07.10-04.22.11:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.07.10-04.22.11:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.07.10-04.22.11:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.07.10-04.22.11:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.07.10-04.22.11:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.07.10-04.22.11:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.07.10-04.22.11:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.07.10-04.22.12:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.07.10-04.22.12:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.07.10-04.22.12:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.07.10-04.22.12:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.07.10-04.22.12:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.07.10-04.22.12:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.07.10-04.22.12:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.07.10-04.22.12:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.07.10-04.22.12:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.07.10-04.22.12:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.07.10-04.22.12:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.07.10-04.22.12:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.07.10-04.22.12:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.07.10-04.22.13:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.07.10-04.22.13:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.07.10-04.22.13:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.07.10-04.22.13:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.07.10-04.22.13:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.07.10-04.22.13:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.07.10-04.22.13:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.07.10-04.22.13:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.07.10-04.22.13:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.07.10-04.22.13:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.07.10-04.22.13:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.07.10-04.22.13:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.07.10-04.22.13:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.07.10-04.22.13:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.07.10-04.22.13:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.07.10-04.22.13:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.07.10-04.22.14:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.07.10-04.22.14:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.07.10-04.22.14:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.07.10-04.22.14:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.07.10-04.22.14:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Door.uasset"
+[2019.07.10-04.22.14:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.07.10-04.22.14:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.07.10-04.22.14:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.07.10-04.22.14:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.07.10-04.22.14:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.07.10-04.22.14:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.07.10-04.22.14:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.07.10-04.22.14:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.07.10-04.22.14:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.07.10-04.22.15:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.07.10-04.22.15:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.07.10-04.22.15:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.07.10-04.22.15:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.07.10-04.22.15:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.07.10-04.22.15:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.07.10-04.22.15:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.07.10-04.22.15:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.07.10-04.22.15:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.07.10-04.22.15:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.07.10-04.22.15:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.07.10-04.22.15:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.07.10-04.22.16:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.07.10-04.22.16:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.07.10-04.22.16:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.07.10-04.22.16:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.07.10-04.22.16:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.07.10-04.22.16:195][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Cube.uasset".
+[2019.07.10-04.22.16:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.07.10-04.22.16:290][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset".
+[2019.07.10-04.22.16:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.07.10-04.22.16:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.07.10-04.22.16:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.07.10-04.22.16:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.07.10-04.22.16:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.07.10-04.22.16:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.07.10-04.22.17:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.07.10-04.22.17:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.07.10-04.22.17:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.07.10-04.22.17:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.07.10-04.22.17:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.07.10-04.22.17:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.07.10-04.22.17:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.07.10-04.22.17:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.07.10-04.22.17:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.07.10-04.22.18:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.07.10-04.22.18:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.07.10-04.22.19:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.07.10-04.22.19:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.07.10-04.22.20:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.07.10-04.22.21:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.07.10-04.22.22:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.07.10-04.22.22:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.07.10-04.22.23:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.07.10-04.22.24:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.07.10-04.22.25:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.07.10-04.22.25:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.07.10-04.22.26:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.07.10-04.22.26:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.07.10-04.22.26:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.07.10-04.22.26:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.07.10-04.22.27:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.07.10-04.22.27:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.07.10-04.22.27:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.07.10-04.22.27:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.07.10-04.22.27:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.07.10-04.22.28:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.07.10-04.22.28:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.07.10-04.22.29:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.07.10-04.22.29:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.07.10-04.22.29:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.07.10-04.22.30:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.07.10-04.22.31:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.07.10-04.22.31:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.07.10-04.22.32:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.07.10-04.22.32:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.07.10-04.22.33:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.07.10-04.22.34:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.07.10-04.22.34:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.07.10-04.22.35:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.07.10-04.22.35:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.07.10-04.22.36:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.07.10-04.22.36:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.07.10-04.22.36:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.07.10-04.22.36:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.07.10-04.22.36:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.07.10-04.22.36:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.07.10-04.22.37:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.07.10-04.22.37:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.07.10-04.22.37:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.07.10-04.22.37:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.07.10-04.22.38:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.07.10-04.22.38:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.07.10-04.22.39:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.07.10-04.22.40:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.07.10-04.22.41:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.07.10-04.22.41:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.07.10-04.22.42:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.07.10-04.22.43:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.07.10-04.22.43:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.07.10-04.22.43:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.07.10-04.22.44:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.07.10-04.22.44:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.07.10-04.22.45:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.07.10-04.22.46:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.07.10-04.22.46:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.07.10-04.22.46:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.07.10-04.22.46:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.07.10-04.22.46:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.07.10-04.22.47:101][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Metal_Steel_N.uasset".
+[2019.07.10-04.22.47:244][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset".
+[2019.07.10-04.22.47:384][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_RockMesh_M.uasset".
+[2019.07.10-04.22.47:486][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_RockMesh_N.uasset".
+[2019.07.10-04.22.48:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.07.10-04.22.48:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.07.10-04.22.48:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.07.10-04.22.49:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.07.10-04.22.49:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.07.10-04.22.50:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.07.10-04.22.51:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.07.10-04.22.51:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.07.10-04.22.51:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.07.10-04.22.51:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.07.10-04.22.51:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.07.10-04.22.52:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.07.10-04.22.52:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.07.10-04.22.52:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.07.10-04.22.52:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.07.10-04.22.52:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.07.10-04.22.52:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.07.10-04.22.52:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.07.10-04.22.52:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.07.10-04.22.52:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.07.10-04.22.52:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.07.10-04.22.52:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.07.10-04.22.53:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.07.10-04.22.53:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.07.10-04.22.53:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.07.10-04.22.53:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.07.10-04.22.54:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.07.10-04.22.54:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.07.10-04.22.54:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.07.10-04.22.55:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.07.10-04.22.55:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.07.10-04.22.56:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.07.10-04.22.57:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.07.10-04.22.57:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.07.10-04.22.58:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.07.10-04.22.58:232][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2019.07.10-04.22.58:332][  0]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Floor_400x400B900A77A426CEF2A5A3FB1B39D0DF7D4.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.07.10-04.22.58:355][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.07.10-04.22.58:358][  0]Cmd: MAP LOAD FILE="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Map/Natalis_Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.10-04.22.58:359][  0]LightingResults: New page: 라이팅 빌드
+[2019.07.10-04.22.58:363][  0]MapCheck: New page: 맵 체크
+[2019.07.10-04.22.58:363][  0]LightingResults: New page: 라이팅 빌드
+[2019.07.10-04.23.02:411][  0]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.07.10-04.23.02:462][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.10-04.23.02:512][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.10-04.23.03:108][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 596.066ms.
+[2019.07.10-04.23.03:108][  0]LogFileHelpers: Loading map 'Natalis_Map_01' took 4.750
+[2019.07.10-04.23.03:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-04.23.03:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-04.23.03:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-04.23.03:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-04.23.03:314][  0]LogCollectionManager: Loaded 0 collections in 0.002754 seconds
+[2019.07.10-04.23.03:375][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Collections/' took 0.01s
+[2019.07.10-04.23.03:375][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Developers/3DCLGamma/Collections/' took 0.01s
+[2019.07.10-04.23.03:375][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Collections/' took 0.01s
+[2019.07.10-04.23.03:375][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.10-04.23.03:388][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2589 classes and 607 folders.
+[2019.07.10-04.23.03:398][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.07.10-04.23.03:521][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.07.10-04.23.03:529][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.07.10-04.23.03:550][  0]LogSlate: Took 0.001289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.10-04.23.03:556][  0]LogSlate: Took 0.005014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.07.10-04.23.03:563][  0]LogSlate: Took 0.005937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.07.10-04.23.03:563][  0]LogSlate: Took 0.000541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.10-04.23.03:569][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.10-04.23.03:648][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 26 NumSamples 1 (Frame:1).
+[2019.07.10-04.23.03:757][  0]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.10-04.23.03:879][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.07.10-04.23.03:879][  0]LogLoad: (Engine Initialization) Total time: 77.81 seconds
+[2019.07.10-04.23.03:879][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.10-04.23.03:892][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.07.10-04.23.03:900][  0]LogOcInput: OculusInput is initialized
+[2019.07.10-04.23.04:098][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.10-04.23.09:137][587]LogFileCache: Retrieving MD5 hashes for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 5.24s
+[2019.07.10-04.23.25:938][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.10-04.23.26:508][607]Candidate modules for hot reload:
+[2019.07.10-04.23.26:508][607]  LudensVR_Project_01
+[2019.07.10-04.23.26:509][607]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,7865 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.07.10-04.23.26:512][607]Warning: Starting HotReload took  0.5s.
+[2019.07.10-04.23.27:678][738]LogAssetRegistry: Asset discovery search completed in 94.3126 seconds
+[2019.07.10-04.23.27:681][738]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.10-04.23.27:681][738]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: New page: 컴파일 - 2019. 7. 10. 오후 10:25:05
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Creating makefile for hot reloading LudensVR_Project_01Editor (no existing makefile)
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Compiling game modules for hot reload
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Parsing headers for LudensVR_Project_01Editor
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   Running UnrealHeaderTool "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\LudensVR_Project_01.uproject" "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\LudensVR_Project_01Editor\Development\LudensVR_Project_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Reflection code generated for LudensVR_Project_01Editor in 14.9512953 seconds
+[2019.07.10-04.25.05:911][377]CompilerResultsLog: Building 42 actions with 20 processes...
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [1/42] PCLaunch.rc
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [2/42] SharedPCH.Engine.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [3/42] LudensVR_Project_01.init.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [4/42] TP_HandAnimInstance.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [5/42] TP_PickupCube.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [6/42] TP_VRDataTable.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [7/42] LV_Holder.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [8/42] TP_VirtualRealityPawn_GamePad.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [9/42] TP_HandAnimInstance.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [10/42] LV_NewsPaper.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [11/42] TP_InteractionInterface.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [12/42] TP_MotionController.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [13/42] LV_Lamp.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [14/42] TP_VRGameModeBaseCPP.gen.cpp
+[2019.07.10-04.25.05:911][377]CompilerResultsLog:   [15/42] LV_Diary.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [16/42] LV_Pen.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [17/42] LV_Event.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [18/42] TP_InteractionInterface.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [19/42] TP_VRDataTable.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [20/42] TP_PickupCube.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [21/42] LV_Pen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [22/42] LV_PlayerMovementComponent.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [23/42] LudensVR_Project_01.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [24/42] LV_DiaryWidget.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [25/42] LV_Lamp.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [26/42] LV_NewsPaper.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [27/42] LV_Event.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [28/42] LV_Door.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [29/42] LV_Door.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [30/42] LV_PlayerMovementComponent.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [31/42] LV_Lantern.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [32/42] TP_VirtualRealityPawn_GamePad.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [33/42] TP_VirtualRealityPawn_Motion.gen.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [34/42] TP_VRGameModeBaseCPP.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [35/42] LV_Lantern.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [36/42] LV_Holder.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [37/42] TP_MotionController.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [38/42] LV_DiaryWidget.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [39/42] LV_Diary.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [40/42] TP_VirtualRealityPawn_Motion.cpp
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [41/42] UE4Editor-LudensVR_Project_01-7865.lib
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7865.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7865.exp ??u?? ??????? ??????.
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:   [42/42] UE4Editor-LudensVR_Project_01-7865.dll
+[2019.07.10-04.25.05:912][377]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7865.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7865.suppressed.exp ??u?? ??????? ??????.
+[2019.07.10-04.25.05:912][377]CompilerResultsLog: Total build time: 98.94 seconds (Parallel executor: 53.48 seconds)
+[2019.07.10-04.25.05:912][377]LogMainFrame: MainFrame: Module compiling took 99.423 seconds
+[2019.07.10-04.25.05:968][377]LogClass: EDIARYPAGE HotReload.
+[2019.07.10-04.25.05:968][377]LogClass: EButtonEnum HotReload.
+[2019.07.10-04.25.05:968][377]LogClass: EGrip_Object HotReload.
+[2019.07.10-04.25.05:968][377]LogClass: EGrip_Code HotReload.
+[2019.07.10-04.25.05:973][377]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.07.10-04.25.06:064][377]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.07.10-04.25.06:141][377]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0006 seconds. Added 17 classes and 4 folders.
+[2019.07.10-04.25.06:143][377]Display: HotReload successful (59 functions remapped  0 scriptstructs remapped)
+[2019.07.10-04.25.06:420][377]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2590 classes and 609 folders.
+[2019.07.10-04.25.06:435][377]Display: HotReload took 100.4s.
+[2019.07.10-04.26.04:472][316]LogSlate: Window '메시지 로그' being destroyed
+[2019.07.10-04.26.04:477][316]LogSlate: Window '메시지 로그' being destroyed
+[2019.07.10-04.26.07:045][624]MapCheck: New page: 맵 체크
+[2019.07.10-04.26.07:076][624]Cmd: MAP REBUILD ALLVISIBLE
+[2019.07.10-04.26.07:076][624]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.07.10-04.26.07:579][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Bed_01, compiling. 
+[2019.07.10-04.26.07:590][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Concrete_01, compiling. 
+[2019.07.10-04.26.07:601][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:601][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Wallpaper_03, compiling. 
+[2019.07.10-04.26.07:616][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.10-04.26.07:616][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:616][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Walls_Inst1, compiling. 
+[2019.07.10-04.26.07:625][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Wall_Panel_SecondFloor_01, compiling. 
+[2019.07.10-04.26.07:635][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.10-04.26.07:635][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:635][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Canvas, compiling. 
+[2019.07.10-04.26.07:645][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Glass_01, compiling. 
+[2019.07.10-04.26.07:655][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.10-04.26.07:655][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:655][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_Mirror, compiling. 
+[2019.07.10-04.26.07:669][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Manuscript_02, compiling. 
+[2019.07.10-04.26.07:687][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.10-04.26.07:687][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:687][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Cosmetics_01, compiling. 
+[2019.07.10-04.26.07:706][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:706][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_BigBookLabel, compiling. 
+[2019.07.10-04.26.07:730][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:730][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_DescV2, compiling. 
+[2019.07.10-04.26.07:785][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:786][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_LightBulb, compiling. 
+[2019.07.10-04.26.07:806][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:806][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_carpet_m_Inst, compiling. 
+[2019.07.10-04.26.07:827][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:827][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_toys_pencils_m_Inst2, compiling. 
+[2019.07.10-04.26.07:836][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:836][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_toys_boxes_m_Inst1, compiling. 
+[2019.07.10-04.26.07:845][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.07:845][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_doll_hair_m_Inst1, compiling. 
+[2019.07.10-04.26.07:855][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_doll_cloth_m_Inst, compiling. 
+[2019.07.10-04.26.07:865][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_doll_M_Inst, compiling. 
+[2019.07.10-04.26.07:874][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_softtoys_m_Inst3, compiling. 
+[2019.07.10-04.26.07:904][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_soft_fabr_dolls_m_Inst, compiling. 
+[2019.07.10-04.26.07:914][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_soft_fur_dolls_m_Inst, compiling. 
+[2019.07.10-04.26.07:925][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_cubes_toy_m_Inst1, compiling. 
+[2019.07.10-04.26.07:933][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_cubes_wood_pnt_m_Inst, compiling. 
+[2019.07.10-04.26.07:946][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_doll_hor_m_Inst, compiling. 
+[2019.07.10-04.26.07:955][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_plast_toys_m_Inst1, compiling. 
+[2019.07.10-04.26.07:964][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Blanket_02_02, compiling. 
+[2019.07.10-04.26.07:980][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_Carpet_01, compiling. 
+[2019.07.10-04.26.08:003][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Inst_StainedMetal_01, compiling. 
+[2019.07.10-04.26.08:090][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Back_Page, compiling. 
+[2019.07.10-04.26.08:097][624]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Diary_Object_01_1, compiling. 
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.07.10-04.26.10:202][624]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.10-04.26.10:203][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.07.10-04.26.10:203][624]TextureStreamingBuild: Display: Compiling optional shaders took 2.630 seconds.
+[2019.07.10-04.26.10:425][624]LogLevel: Display: Export Material TexCoord Scales took 0.222 seconds.
+[2019.07.10-04.26.10:763][624]TextureStreamingBuild: Display: Build Texture Streaming took 0.338 seconds.
+[2019.07.10-04.26.10:825][624]LightingResults: New page: 라이팅 빌드 - 2019. 7. 10. 오후 10:26:10
+[2019.07.10-04.26.10:887][624]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.10-04.26.11:108][624]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.10-04.26.11:129][624]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.10-04.26.12:150][624]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.10-04.26.12:150][624]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11236
+[2019.07.10-04.26.15:469][624]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.07.10-04.26.15:471][624]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.10-04.26.15:471][624]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.10-04.26.15:471][624]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.10-04.26.15:471][624]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.10-04.26.15:471][624]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.10-04.26.15:678][624]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.07.10-04.26.15:679][624]MapCheck: New page: Natalis_Map_01 - 2019. 7. 10. 오후 10:26:15
+[2019.07.10-04.26.16:354][624]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 675.513ms.
+[2019.07.10-04.26.16:377][624]LogEditorBuildUtils: Build time 0:09
+[2019.07.10-04.26.46:489][296]Job is a success!
+[2019.07.10-04.26.46:545][297]LogSlate: Took 0.000554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.037s
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport:      Bricks at Level
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2019.07.10-04.26.46:766][297]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.07.10-04.26.48:421][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.07.10-04.26.48:421][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2019.07.10-04.26.48:422][297]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2019.07.10-04.26.48:818][297]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.07.10-04.26.48:818][297]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2019.07.10-04.26.48:867][297]Lightmass on 3DCL-MARS: 31.5 sec total, 2.54 sec importing, 6 ms setup, 5.95 sec photons, 22.9 sec processing, 0 ms extra exporting [860/860 mappings]. Threads: 7:14 min total, 4:31 min processing.
+[2019.07.10-04.26.48:929][297]LogStaticLightingSystem: Illumination: 38.0 sec (1.07 sec encoding lightmaps, 394 ms encoding shadowmaps)
+[2019.07.10-04.26.48:929][297]LogStaticLightingSystem: Lightmap texture memory:  20.5 MB (20.5 MB streaming, 0.0 MB non-streaming), 16 textures
+[2019.07.10-04.26.48:929][297]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.07.10-04.26.49:488][297]DumpUnbuiltLightIteractions
+[2019.07.10-04.26.49:488][297]Lights with unbuilt interactions: 0
+[2019.07.10-04.26.49:488][297]
+[2019.07.10-04.26.49:488][297]Primitives with unbuilt interactions: 0
+[2019.07.10-04.26.49:635][298]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.10-04.26.49:635][298]MapCheck: New page: Natalis_Map_01 - 2019. 7. 10. 오후 10:26:49
+[2019.07.10-04.26.50:226][298]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 591.238ms.
+[2019.07.10-04.26.58:516][286]Candidate modules for hot reload:
+[2019.07.10-04.26.58:516][286]  LudensVR_Project_01
+[2019.07.10-04.26.58:516][286]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,2417 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.07.10-04.26.58:519][286]Warning: Starting HotReload took  0.0s.
+[2019.07.10-04.27.01:609][655]CompilerResultsLog: New page: 컴파일 - 2019. 7. 10. 오후 10:27:01
+[2019.07.10-04.27.01:609][655]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.07.10-04.27.01:609][655]CompilerResultsLog: Compiling game modules for hot reload
+[2019.07.10-04.27.01:609][655]CompilerResultsLog: Target is up to date
+[2019.07.10-04.27.01:609][655]CompilerResultsLog: Total build time: 2.65 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.07.10-04.27.01:609][655]LogMainFrame: MainFrame: Module compiling took 3.115 seconds
+[2019.07.10-04.27.01:671][655]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2590 classes and 609 folders.
+[2019.07.10-04.27.01:671][655]Display: HotReload took  3.2s.
+[2019.07.10-04.27.03:938][926]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.07.10-04.27.03:947][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.10-04.27.03:947][926]LogHMD: Initializing OVRPlugin session
+[2019.07.10-04.27.06:241][926]PIE: New page: PIE 세션: Natalis_Map_01 (2019. 7. 10. 오후 10:27:06)
+[2019.07.10-04.27.06:241][926]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.07.10-04.27.06:307][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066172s)
+[2019.07.10-04.27.06:308][926]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.07.10-04.27.06:309][926]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.07.10-04.27.06:309][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.067639s)
+[2019.07.10-04.27.06:388][926]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.10-04.27.06:446][926]LogInit: FAudioDevice initialized.
+[2019.07.10-04.27.06:488][926]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.07.10-04.27.06:518][926]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 3) at 2019.07.10-13.27.06
+[2019.07.10-04.27.06:522][926]LogWorld: Bringing up level for play took: 0.031761
+[2019.07.10-04.27.06:592][926]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.07.10-04.27.08:198][926]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.602 s
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: 
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: Ensure condition failed: !RotationQuat.ContainsNaN() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMath.cpp] [Line: 448]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: Invalid input to FRotator::Quaternion - generated NaN output: X=nan Y=nan Z=nan W=-nan(ind)
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: Stack: 
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007fff2d1371f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007fff2ce70c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007fff2ce8b356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007fff2ce9036c UE4Editor-Core.dll!FRotator::Quaternion() [d:\build\++ue4\sync\engine\source\runtime\core\private\math\unrealmath.cpp:448]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffef126d627 UE4Editor-Engine.dll!USceneComponent::SetRelativeRotation() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\scenecomponent.cpp:1257]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffedfdcb186 UE4Editor-LudensVR_Project_01-7865.dll!ATP_MotionController::SetupRoomScaleOutline() [d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\tp_motioncontroller.cpp:704]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffedfdc9517 UE4Editor-LudensVR_Project_01-7865.dll!ATP_MotionController::BeginPlay() [d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\tp_motioncontroller.cpp:245]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffef0d7a752 UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3210]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffef0da3d4c UE4Editor-Engine.dll!AActor::PostActorConstruction() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3075]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffef0d8892f UE4Editor-Engine.dll!AActor::FinishSpawning() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:2974]
+[2019.07.10-04.27.08:198][926]LogOutputDevice: Error: [Callstack] 0x00007ffedfdd5118 UE4Editor-LudensVR_Project_01-7865.dll!ATP_VirtualRealityPawn_Motion::BeginPlay() [d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\tp_virtualrealitypawn_motion.cpp:158]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ffef0d7a752 UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3210]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ffef20d5119 UE4Editor-Engine.dll!AWorldSettings::NotifyBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\worldsettings.cpp:230]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ffef1493d51 UE4Editor-Engine.dll!AGameStateBase::HandleBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gamestatebase.cpp:177]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ffef20b93be UE4Editor-Engine.dll!UWorld::BeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\world.cpp:3699]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ffef14b1fed UE4Editor-Engine.dll!UGameInstance::StartPlayInEditorGameInstance() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gameinstance.cpp:400]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff0325f989 UE4Editor-UnrealEd.dll!UEditorEngine::CreatePIEGameInstance() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:3298]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff032801ac UE4Editor-UnrealEd.dll!UEditorEngine::PlayInEditor() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:2433]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff0329e536 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlayMapRequest() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:1268]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff02cb6b41 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1605]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff035af666 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ff7eb335cbd UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3495]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ff7eb345b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ff7eb345bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ff7eb353dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007ff7eb355aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff729f4034 KERNEL32.DLL!UnknownFunction []
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: [Callstack] 0x00007fff73313691 ntdll.dll!UnknownFunction []
+[2019.07.10-04.27.08:199][926]LogOutputDevice: Error: 
+[2019.07.10-04.27.08:202][926]LogStats:                SubmitErrorReport -  0.000 s

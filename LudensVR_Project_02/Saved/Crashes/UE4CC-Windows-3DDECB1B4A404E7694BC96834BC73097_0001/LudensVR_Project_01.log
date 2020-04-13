@@ -1,0 +1,422 @@
+﻿Log file open, 08/25/19 15:39:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LudensVR_Project_01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.711395
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.168s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Could not determine HMD audio input device
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz, GPU: NVIDIA Quadro M4000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.25-06.39.27:993][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-06.39.27:993][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.25-06.39.28:004][  0]LogHAL: Display: Platform has ~ 64 GB [68637433856 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.25-06.39.28:004][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.08.25-06.39.28:004][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.25-06.39.28:005][  0]LogInit: Computer: 3DCL-MARS
+[2019.08.25-06.39.28:005][  0]LogInit: User: 3DCLGamma
+[2019.08.25-06.39.28:005][  0]LogInit: CPU Page size=4096, Cores=10
+[2019.08.25-06.39.28:005][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.25-06.39.28:005][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.08.25-06.39.28:005][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.25-06.39.28:005][  0]LogMemory: Process Physical Memory: 112.09 MB used, 112.10 MB peak
+[2019.08.25-06.39.28:005][  0]LogMemory: Process Virtual Memory: 100.32 MB used, 100.32 MB peak
+[2019.08.25-06.39.28:005][  0]LogMemory: Physical Memory: 12259.79 MB used,  53197.96 MB free, 65457.76 MB total
+[2019.08.25-06.39.28:005][  0]LogMemory: Virtual Memory: 4706.61 MB used,  53197.96 MB free, 134217728.00 MB total
+[2019.08.25-06.39.28:038][  0]LogInit: Using OS detected language (ko-KR).
+[2019.08.25-06.39.28:038][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.08.25-06.39.28:039][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.08.25-06.39.28:502][  0]LogStreaming: Display: Took  0.465s to InitEngineTextLocalization.
+[2019.08.25-06.39.28:502][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.25-06.39.28:574][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.25-06.39.28:574][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.25-06.39.29:157][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.25-06.39.29:254][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2019.08.25-06.39.29:254][  0]LogD3D11RHI:       8144/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.25-06.39.29:258][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.25-06.39.29:258][  0]LogD3D11RHI:       0/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.25-06.39.29:258][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.25-06.39.29:270][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.25-06.39.29:270][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.25-06.39.29:270][  0]LogWindows: EnumDisplayDevices:
+[2019.08.25-06.39.29:271][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2019.08.25-06.39.29:272][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:1)
+[2019.08.25-06.39.29:273][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.08.25-06.39.29:274][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.08.25-06.39.29:275][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.25-06.39.29:275][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2019.08.25-06.39.29:275][  0]LogD3D11RHI:   Driver Version: 416.78 (internal:25.21.14.1678, unified:416.78)
+[2019.08.25-06.39.29:275][  0]LogD3D11RHI:      Driver Date: 11-1-2018
+[2019.08.25-06.39.29:275][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2019.08.25-06.39.29:341][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.25-06.39.29:370][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.25-06.39.29:379][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Intermediate/Shaders/WorkingDirectory/3064/).
+[2019.08.25-06.39.29:380][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealShaderWorkingDir/76B8AEE54C5C775126177480067398A4/'.
+[2019.08.25-06.39.29:844][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.25-06.39.29:863][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.25-06.39.29:887][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.25-06.39.29:906][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.25-06.39.29:927][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.25-06.39.29:946][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.25-06.39.29:966][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.25-06.39.29:985][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.25-06.39.29:994][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-06.39.30:101][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.25-06.39.30:175][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.25-06.39.30:175][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.25-06.39.30:208][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.25-06.39.30:208][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.25-06.39.30:226][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.25-06.39.30:250][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.25-06.39.30:282][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.25-06.39.30:308][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.25-06.39.30:320][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.25-06.39.30:324][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.25-06.39.30:407][  0]LogXGEController: Cleaning working directory: C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.25-06.39.30:408][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.25-06.39.30:408][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.25-06.39.30:408][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.25-06.39.31:356][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.25-06.39.31:440][  0]LogDerivedDataCache: Loaded boot cache 0.08s 92MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.08.25-06.39.31:441][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.08.25-06.39.31:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.25-06.39.31:441][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.25-06.39.31:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.25-06.39.31:441][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.25-06.39.31:462][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.25-06.39.31:476][  0]LogDerivedDataCache: Using Local data cache path C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.25-06.39.31:476][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.25-06.39.31:476][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.25-06.39.31:498][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.25-06.39.31:500][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.25-06.39.31:501][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.25-06.39.31:628][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2019.08.25-06.39.32:052][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-06.39.32:220][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.25-06.39.32:225][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.25-06.39.32:225][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.25-06.39.32:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.25-06.39.32:225][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.25-06.39.32:259][  0]LogNetVersion: LudensVR_Project_01 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3183368189)
+[2019.08.25-06.39.32:917][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.132830 seconds
+[2019.08.25-06.39.32:923][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.08.25-06.39.32:923][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.08.25-06.39.32:924][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.25-06.39.34:439][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.25-06.39.34:453][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.25-06.39.35:316][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-06.39.35:316][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-06.39.35:318][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-06.39.35:319][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-06.39.35:493][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.25-06.39.35:654][  0]LogOcInput: OculusInput pre-init called
+[2019.08.25-06.39.35:728][  0]LogEngine: Initializing Engine...
+[2019.08.25-06.39.35:729][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2019.08.25-06.39.35:731][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.25-06.39.35:731][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.25-06.39.35:731][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.25-06.39.35:731][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.25-06.39.35:988][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.25-06.39.36:005][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.25-06.39.36:059][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-06.39.36:138][  0]LogInit: FAudioDevice initialized.
+[2019.08.25-06.39.36:138][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.25-06.39.36:230][  0]LogDerivedDataCache: Saved boot cache 0.09s 92MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.08.25-06.39.36:235][  0]LogInit: Texture streaming: Enabled
+[2019.08.25-06.39.36:265][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.25-06.39.36:265][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={243E4633-4E2F-62B2-5952-58A64028D2D6}
+[2019.08.25-06.39.36:284][  0]LogInit: Transaction tracking system initialized
+[2019.08.25-06.39.36:318][  0]BlueprintLog: New page: 에디터 로드
+[2019.08.25-06.39.36:446][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.08.25-06.39.36:512][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.08.25-06.39.36:512][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.08.25-06.39.36:512][  0]LogUObjectGlobals: Warning: 'Class /Game/SciFi_Weapons/Tutorial.Tutorial_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.08.25-06.39.36:753][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.25-06.39.36:753][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.25-06.39.36:753][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.25-06.39.36:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.25-06.39.36:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.25-06.39.36:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.25-06.39.36:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.25-06.39.36:909][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 0.04s
+[2019.08.25-06.39.36:909][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-06.39.36:909][  0]Cmd: MAP LOAD FILE="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Map/Natalis_Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.25-06.39.36:909][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.25-06.39.36:914][  0]MapCheck: New page: 맵 체크
+[2019.08.25-06.39.36:914][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.25-06.39.40:341][  0]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-06.39.40:391][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.25-06.39.40:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.25-06.39.40:992][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 551.655ms.
+[2019.08.25-06.39.40:992][  0]LogFileHelpers: Loading map 'Natalis_Map_01' took 4.084
+[2019.08.25-06.39.41:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-06.39.41:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-06.39.41:167][  0]LogCollectionManager: Loaded 0 collections in 0.002456 seconds
+[2019.08.25-06.39.41:225][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Collections/' took 0.01s
+[2019.08.25-06.39.41:225][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Developers/3DCLGamma/Collections/' took 0.01s
+[2019.08.25-06.39.41:225][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Collections/' took 0.01s
+[2019.08.25-06.39.41:225][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.25-06.39.41:238][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2593 classes and 607 folders.
+[2019.08.25-06.39.41:246][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.25-06.39.41:345][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.25-06.39.41:350][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.25-06.39.41:374][  0]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.25-06.39.41:378][  0]LogSlate: Took 0.002785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.25-06.39.41:381][  0]LogSlate: Took 0.002396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.08.25-06.39.41:382][  0]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.25-06.39.41:386][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.25-06.39.41:485][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 26 NumSamples 1 (Frame:1).
+[2019.08.25-06.39.41:631][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.25-06.39.41:631][  0]LogLoad: (Engine Initialization) Total time: 26.68 seconds
+[2019.08.25-06.39.41:631][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.25-06.39.41:650][  0]LogOcInput: OculusInput is initialized
+[2019.08.25-06.39.41:685][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.25-06.39.41:730][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-06.39.41:858][  4]LogAssetRegistry: Asset discovery search completed in 10.2526 seconds
+[2019.08.25-06.39.41:860][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.25-06.39.41:860][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.08.25-06.39.46:878][ 19]LogFileCache: Retrieving MD5 hashes for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 5.22s
+[2019.08.25-06.39.48:884][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-06.44.25:379][893]Candidate modules for hot reload:
+[2019.08.25-06.44.25:379][893]  LudensVR_Project_01
+[2019.08.25-06.44.25:379][893]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,5500 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-06.44.25:382][893]Warning: Starting HotReload took  0.0s.
+[2019.08.25-06.44.47:794][572]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 12:44:47
+[2019.08.25-06.44.47:794][572]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-06.44.47:794][572]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-06.44.47:794][572]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-06.44.47:794][572]CompilerResultsLog:   [1/3] LV_Event.cpp
+[2019.08.25-06.44.47:794][572]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-5500.lib
+[2019.08.25-06.44.47:794][572]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-5500.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-5500.exp ??u?? ??????? ??????.
+[2019.08.25-06.44.47:794][572]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-5500.dll
+[2019.08.25-06.44.47:794][572]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-5500.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-5500.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-06.44.47:794][572]CompilerResultsLog: Total build time: 21.98 seconds (Parallel executor: 19.20 seconds)
+[2019.08.25-06.44.47:794][572]LogMainFrame: MainFrame: Module compiling took 22.436 seconds
+[2019.08.25-06.44.47:857][572]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-06.44.47:857][572]LogClass: EButtonEnum HotReload.
+[2019.08.25-06.44.47:857][572]LogClass: EGrip_Object HotReload.
+[2019.08.25-06.44.47:857][572]LogClass: EGrip_Code HotReload.
+[2019.08.25-06.44.47:863][572]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-06.44.47:953][572]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-06.44.48:040][572]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0005 seconds. Added 21 classes and 4 folders.
+[2019.08.25-06.44.48:042][572]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-06.44.48:325][572]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-06.44.48:329][572]Display: HotReload took 23.0s.
+[2019.08.25-06.45.08:955][ 42]LogTemp: Repeating last play command: VR 프리뷰
+[2019.08.25-06.45.08:973][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-06.45.08:973][ 42]LogHMD: Initializing OVRPlugin session
+[2019.08.25-06.45.09:069][ 42]PIE: New page: PIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 12:45:09)
+[2019.08.25-06.45.09:069][ 42]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-06.45.09:133][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063613s)
+[2019.08.25-06.45.09:134][ 42]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-06.45.09:134][ 42]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2019.08.25-06.45.09:134][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.065018s)
+[2019.08.25-06.45.09:225][ 42]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.25-06.45.09:260][ 42]LogInit: FAudioDevice initialized.
+[2019.08.25-06.45.09:287][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-06.45.09:405][ 42]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.08.25-06.45.09:444][ 42]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-06.45.09:469][ 42]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-15.45.09
+[2019.08.25-06.45.09:473][ 42]LogWorld: Bringing up level for play took: 0.027339
+[2019.08.25-06.45.09:538][ 42]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.08.25-06.45.09:542][ 42]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.08.25-06.45.09:542][ 42]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.08.25-06.45.10:222][ 42]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.680 s
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: 
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: Ensure condition failed: !RotationQuat.ContainsNaN() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMath.cpp] [Line: 448]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: Invalid input to FRotator::Quaternion - generated NaN output: X=nan Y=nan Z=nan W=-nan(ind)
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: Stack: 
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8e08571f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8e0590c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8e05ab356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8e05b036c UE4Editor-Core.dll!FRotator::Quaternion() [d:\build\++ue4\sync\engine\source\runtime\core\private\math\unrealmath.cpp:448]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d6b6d627 UE4Editor-Engine.dll!USceneComponent::SetRelativeRotation() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\scenecomponent.cpp:1257]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8b8fbc656 UE4Editor-LudensVR_Project_01-5500.dll!ATP_MotionController::SetupRoomScaleOutline() [d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\tp_motioncontroller.cpp:786]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8b8fb9c77 UE4Editor-LudensVR_Project_01-5500.dll!ATP_MotionController::BeginPlay() [d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\tp_motioncontroller.cpp:257]
+[2019.08.25-06.45.10:222][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d667a752 UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3210]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d66a3d4c UE4Editor-Engine.dll!AActor::PostActorConstruction() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3075]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d668892f UE4Editor-Engine.dll!AActor::FinishSpawning() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:2974]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8b8fc67d8 UE4Editor-LudensVR_Project_01-5500.dll!ATP_VirtualRealityPawn_Motion::BeginPlay() [d:\mars_github\ludensvr_project_02\ludensvr_project_02\source\ludensvr_project_01\tp_virtualrealitypawn_motion.cpp:158]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d667a752 UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3210]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d79d5119 UE4Editor-Engine.dll!AWorldSettings::NotifyBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\worldsettings.cpp:230]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d6d93d51 UE4Editor-Engine.dll!AGameStateBase::HandleBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gamestatebase.cpp:177]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d79b93be UE4Editor-Engine.dll!UWorld::BeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\world.cpp:3699]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8d6db1fed UE4Editor-Engine.dll!UGameInstance::StartPlayInEditorGameInstance() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gameinstance.cpp:400]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8cd51f989 UE4Editor-UnrealEd.dll!UEditorEngine::CreatePIEGameInstance() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:3298]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8cd5401ac UE4Editor-UnrealEd.dll!UEditorEngine::PlayInEditor() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:2433]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8cd55e536 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlayMapRequest() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:1268]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8ccf76b41 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1605]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff8cd86f666 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff6bc6e5cbd UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3495]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff6bc6f5b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff6bc6f5bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff6bc703dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff6bc705aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff93c5e7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff93d9cce71 ntdll.dll!UnknownFunction []
+[2019.08.25-06.45.10:223][ 42]LogOutputDevice: Error: 
+[2019.08.25-06.45.10:225][ 42]LogStats:                SubmitErrorReport -  0.000 s
+[2019.08.25-06.45.10:971][ 42]LogStats:                    SendNewReport -  0.746 s
+[2019.08.25-06.45.10:971][ 42]LogStats:             FDebug::EnsureFailed -  1.429 s
+[2019.08.25-06.45.10:977][ 42]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 1.765
+[2019.08.25-06.45.10:978][ 42]LogEngine: Changing dynamic resolution state.

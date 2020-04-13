@@ -1,0 +1,1379 @@
+﻿Log file open, 08/25/19 17:48:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LudensVR_Project_01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.717458
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.170s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Could not determine HMD audio input device
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz, GPU: NVIDIA Quadro M4000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.25-08.48.32:234][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-08.48.32:234][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.25-08.48.32:247][  0]LogHAL: Display: Platform has ~ 64 GB [68637433856 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.25-08.48.32:247][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.08.25-08.48.32:247][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.25-08.48.32:248][  0]LogInit: Computer: 3DCL-MARS
+[2019.08.25-08.48.32:248][  0]LogInit: User: 3DCLGamma
+[2019.08.25-08.48.32:248][  0]LogInit: CPU Page size=4096, Cores=10
+[2019.08.25-08.48.32:248][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.25-08.48.32:248][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.08.25-08.48.32:248][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.25-08.48.32:248][  0]LogMemory: Process Physical Memory: 112.09 MB used, 112.09 MB peak
+[2019.08.25-08.48.32:248][  0]LogMemory: Process Virtual Memory: 100.30 MB used, 100.30 MB peak
+[2019.08.25-08.48.32:248][  0]LogMemory: Physical Memory: 17315.07 MB used,  48142.69 MB free, 65457.76 MB total
+[2019.08.25-08.48.32:248][  0]LogMemory: Virtual Memory: 4706.61 MB used,  48142.69 MB free, 134217728.00 MB total
+[2019.08.25-08.48.32:283][  0]LogInit: Using OS detected language (ko-KR).
+[2019.08.25-08.48.32:283][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.08.25-08.48.32:285][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.08.25-08.48.32:766][  0]LogStreaming: Display: Took  0.483s to InitEngineTextLocalization.
+[2019.08.25-08.48.32:766][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.25-08.48.32:846][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.25-08.48.32:846][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.25-08.48.33:467][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.25-08.48.33:572][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2019.08.25-08.48.33:573][  0]LogD3D11RHI:       8144/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.25-08.48.33:577][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.25-08.48.33:577][  0]LogD3D11RHI:       0/0/32728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.25-08.48.33:577][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.25-08.48.33:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.25-08.48.33:588][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.25-08.48.33:588][  0]LogWindows: EnumDisplayDevices:
+[2019.08.25-08.48.33:589][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2019.08.25-08.48.33:590][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:1)
+[2019.08.25-08.48.33:591][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.08.25-08.48.33:592][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.08.25-08.48.33:592][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.25-08.48.33:592][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2019.08.25-08.48.33:592][  0]LogD3D11RHI:   Driver Version: 416.78 (internal:25.21.14.1678, unified:416.78)
+[2019.08.25-08.48.33:592][  0]LogD3D11RHI:      Driver Date: 11-1-2018
+[2019.08.25-08.48.33:592][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2019.08.25-08.48.33:667][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.25-08.48.33:700][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2019.08.25-08.48.33:709][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Intermediate/Shaders/WorkingDirectory/13600/).
+[2019.08.25-08.48.33:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealShaderWorkingDir/E50E925E4BAFC8417E12AD9268720841/'.
+[2019.08.25-08.48.34:179][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.25-08.48.34:199][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.25-08.48.34:220][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.25-08.48.34:240][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.25-08.48.34:261][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.25-08.48.34:281][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.25-08.48.34:302][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.25-08.48.34:330][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.25-08.48.34:339][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.25-08.48.34:459][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.25-08.48.34:537][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.25-08.48.34:537][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.25-08.48.34:574][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.25-08.48.34:574][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.25-08.48.34:592][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.25-08.48.34:612][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.25-08.48.34:631][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.25-08.48.34:652][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.25-08.48.34:665][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.25-08.48.34:666][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.25-08.48.34:756][  0]LogXGEController: Cleaning working directory: C:/Users/3DCL_Gamma/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.25-08.48.34:756][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.25-08.48.34:757][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.25-08.48.34:757][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.25-08.48.35:822][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.25-08.48.35:909][  0]LogDerivedDataCache: Loaded boot cache 0.09s 92MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.08.25-08.48.35:909][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.08.25-08.48.35:909][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.25-08.48.35:909][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.25-08.48.35:909][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.25-08.48.35:909][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.25-08.48.35:931][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.25-08.48.35:945][  0]LogDerivedDataCache: Using Local data cache path C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.25-08.48.35:945][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.25-08.48.35:945][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.25-08.48.35:969][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.25-08.48.35:971][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.25-08.48.35:973][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.25-08.48.36:106][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2019.08.25-08.48.36:561][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-08.48.36:636][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.25-08.48.36:642][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.25-08.48.36:642][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.25-08.48.36:642][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.25-08.48.36:642][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.25-08.48.36:794][  0]LogNetVersion: LudensVR_Project_01 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3183368189)
+[2019.08.25-08.48.37:500][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.140627 seconds
+[2019.08.25-08.48.37:508][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.08.25-08.48.37:508][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.08.25-08.48.37:509][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.25-08.48.39:171][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.25-08.48.39:186][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.25-08.48.40:134][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-08.48.40:134][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-08.48.40:136][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-08.48.40:137][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-08.48.40:329][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.25-08.48.40:513][  0]LogOcInput: OculusInput pre-init called
+[2019.08.25-08.48.40:595][  0]LogEngine: Initializing Engine...
+[2019.08.25-08.48.40:596][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2019.08.25-08.48.40:600][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.25-08.48.40:600][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.25-08.48.40:600][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.25-08.48.40:600][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.25-08.48.40:875][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.25-08.48.40:893][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.25-08.48.40:951][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.48.41:036][  0]LogInit: FAudioDevice initialized.
+[2019.08.25-08.48.41:036][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.25-08.48.41:131][  0]LogDerivedDataCache: Saved boot cache 0.09s 92MB C:/Users/3DCL_Gamma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.08.25-08.48.41:131][  0]LogInit: Texture streaming: Enabled
+[2019.08.25-08.48.41:162][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.25-08.48.41:162][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2A9C681D-41F4-7359-ACD6-31ADA0B8ABFD}
+[2019.08.25-08.48.41:183][  0]LogInit: Transaction tracking system initialized
+[2019.08.25-08.48.41:221][  0]BlueprintLog: New page: 에디터 로드
+[2019.08.25-08.48.41:361][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.08.25-08.48.41:443][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.08.25-08.48.41:443][  0]LogLinker: Warning: '/Game/SciFi_Weapons/Tutorial' 파일을 찾을 수 없습니다.
+[2019.08.25-08.48.41:443][  0]LogUObjectGlobals: Warning: 'Class /Game/SciFi_Weapons/Tutorial.Tutorial_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.08.25-08.48.41:704][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.25-08.48.41:704][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.25-08.48.41:704][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.25-08.48.41:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.25-08.48.41:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.25-08.48.41:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.25-08.48.41:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.25-08.48.41:868][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 0.04s
+[2019.08.25-08.48.41:868][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.08.25-08.48.41:869][  0]Cmd: MAP LOAD FILE="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Map/Natalis_Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.25-08.48.41:869][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.25-08.48.41:873][  0]MapCheck: New page: 맵 체크
+[2019.08.25-08.48.41:873][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.25-08.48.45:458][  0]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.48.45:517][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.25-08.48.45:570][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.25-08.48.46:154][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 584.446ms.
+[2019.08.25-08.48.46:154][  0]LogFileHelpers: Loading map 'Natalis_Map_01' took 4.287
+[2019.08.25-08.48.46:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.48.46:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.48.46:337][  0]LogCollectionManager: Loaded 0 collections in 0.002813 seconds
+[2019.08.25-08.48.46:394][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Collections/' took 0.01s
+[2019.08.25-08.48.46:395][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Developers/3DCLGamma/Collections/' took 0.01s
+[2019.08.25-08.48.46:395][  0]LogFileCache: Scanning file cache for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Collections/' took 0.01s
+[2019.08.25-08.48.46:395][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.25-08.48.46:407][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2593 classes and 607 folders.
+[2019.08.25-08.48.46:417][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.25-08.48.46:535][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.08.25-08.48.46:545][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2019.08.25-08.48.46:571][  0]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.25-08.48.46:577][  0]LogSlate: Took 0.003481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.25-08.48.46:581][  0]LogSlate: Took 0.003710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.08.25-08.48.46:582][  0]LogSlate: Took 0.000538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.25-08.48.46:591][  0]LogSlate: Took 0.000580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.25-08.48.46:733][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 26 NumSamples 1 (Frame:1).
+[2019.08.25-08.48.46:908][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.25-08.48.46:908][  0]LogLoad: (Engine Initialization) Total time: 18.16 seconds
+[2019.08.25-08.48.46:908][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.25-08.48.46:922][  0]LogOcInput: OculusInput is initialized
+[2019.08.25-08.48.46:957][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.25-08.48.47:011][  0]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-08.48.47:136][  4]LogAssetRegistry: Asset discovery search completed in 11.0521 seconds
+[2019.08.25-08.48.47:139][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.25-08.48.47:139][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.08.25-08.48.52:344][243]LogFileCache: Retrieving MD5 hashes for directory 'D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/' took 5.41s
+[2019.08.25-08.48.52:987][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.48.53:161][255]Candidate modules for hot reload:
+[2019.08.25-08.48.53:161][255]  LudensVR_Project_01
+[2019.08.25-08.48.53:161][255]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,4913 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-08.48.53:164][255]Warning: Starting HotReload took  0.1s.
+[2019.08.25-08.49.15:945][412]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 2:49:15
+[2019.08.25-08.49.15:945][412]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-08.49.15:945][412]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-08.49.15:945][412]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-08.49.15:945][412]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-08.49.15:945][412]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-4913.lib
+[2019.08.25-08.49.15:945][412]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-4913.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-4913.exp ??u?? ??????? ??????.
+[2019.08.25-08.49.15:945][412]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-4913.dll
+[2019.08.25-08.49.15:945][412]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-4913.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-4913.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-08.49.15:945][412]CompilerResultsLog: Total build time: 22.30 seconds (Parallel executor: 19.15 seconds)
+[2019.08.25-08.49.15:946][412]LogMainFrame: MainFrame: Module compiling took 22.805 seconds
+[2019.08.25-08.49.16:044][412]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-08.49.16:044][412]LogClass: EButtonEnum HotReload.
+[2019.08.25-08.49.16:044][412]LogClass: EGrip_Object HotReload.
+[2019.08.25-08.49.16:044][412]LogClass: EGrip_Code HotReload.
+[2019.08.25-08.49.16:052][412]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-08.49.16:171][412]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-08.49.16:273][412]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0007 seconds. Added 21 classes and 4 folders.
+[2019.08.25-08.49.16:277][412]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-08.49.16:569][412]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-08.49.16:572][412]Display: HotReload took 23.5s.
+[2019.08.25-08.49.18:270][560]LogTemp: Repeating last play command: VR 프리뷰
+[2019.08.25-08.49.18:290][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.49.18:290][560]LogHMD: Initializing OVRPlugin session
+[2019.08.25-08.49.18:383][560]PIE: New page: PIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:49:18)
+[2019.08.25-08.49.18:383][560]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.49.18:450][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066586s)
+[2019.08.25-08.49.18:451][560]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.49.18:451][560]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.08.25-08.49.18:451][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.067775s)
+[2019.08.25-08.49.18:541][560]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.25-08.49.18:582][560]LogInit: FAudioDevice initialized.
+[2019.08.25-08.49.18:609][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.49.18:729][560]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.08.25-08.49.18:771][560]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.49.18:799][560]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.49.18
+[2019.08.25-08.49.18:804][560]LogWorld: Bringing up level for play took: 0.031221
+[2019.08.25-08.49.18:876][560]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.08.25-08.49.18:881][560]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.08.25-08.49.18:881][560]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.08.25-08.49.18:886][560]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.326
+[2019.08.25-08.49.18:887][560]LogEngine: Changing dynamic resolution state.
+[2019.08.25-08.49.18:900][560]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2019.08.25-08.49.18:900][560]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.08.25-08.49.27:774][163]LogSlate: Took 0.003024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.25-08.49.35:973][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.49.36:022][651]LogSlate: Window 'LudensVR_Project_01 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.08.25-08.49.36:071][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.49.36:136][651]LogSlate: Slate User Unregistered.  User Index 8
+[2019.08.25-08.49.36:136][651]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.08.25-08.49.36:156][652]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.08.25-08.49.36:156][652]LogEngine: Changing dynamic resolution state.
+[2019.08.25-08.49.43:720][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.49.43:720][996]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:49:43)
+[2019.08.25-08.49.43:720][996]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.49.43:791][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070434s)
+[2019.08.25-08.49.43:792][996]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.49.43:792][996]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.08.25-08.49.43:792][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.071456s)
+[2019.08.25-08.49.43:885][996]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.49.43:959][996]LogInit: FAudioDevice initialized.
+[2019.08.25-08.49.43:992][996]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.49.44:024][996]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.49.44
+[2019.08.25-08.49.44:027][996]LogWorld: Bringing up level for play took: 0.034477
+[2019.08.25-08.49.44:041][996]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.83
+[2019.08.25-08.49.57:804][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.49.59:394][654]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.08.25-08.49.59:394][654]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.08.25-08.50.02:297][903]LogEditor: Attempting to add actor of class 'LV_Diary' to level at 166.61,202.87,548.00
+[2019.08.25-08.50.02:974][953]LogEditor: Attempting to add actor of class 'LV_Diary' to level at 42.88,169.62,552.23
+[2019.08.25-08.50.08:393][303]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.10:074][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.50.10:199][424]LogEditor: Attempting to add actor of class 'LV_Pen' to level at -29.32,115.44,551.26
+[2019.08.25-08.50.10:762][478]LogEditor: Attempting to add actor of class 'LV_Pen' to level at 41.50,136.43,752.99
+[2019.08.25-08.50.12:436][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.50.12:575][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.50.12:621][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.50.12:670][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.50.12:699][586]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.08.25-08.50.15:607][847]LogEditor: Attempting to add actor of class 'LV_Lantern' to level at 325.47,96.51,948.00
+[2019.08.25-08.50.18:118][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.50.18:250][ 26]LogEditor: Attempting to add actor of class 'LV_Diary' to level at 79.90,242.88,551.25
+[2019.08.25-08.50.18:950][ 81]LogEditor: Attempting to add actor of class 'LV_Diary' to level at -149.50,186.43,548.00
+[2019.08.25-08.50.19:966][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.22:305][342]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.24:456][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.50.24:561][474]LogEditor: Attempting to add actor of class 'LV_Pen' to level at -137.49,-256.32,9.51
+[2019.08.25-08.50.24:878][506]LogEditor: Attempting to add actor of class 'LV_Pen' to level at -137.49,-256.32,9.51
+[2019.08.25-08.50.26:488][652]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.31:739][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.35:043][568]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.37:742][851]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.39:299][ 13]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.42:138][315]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.43:966][487]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.46:293][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.47:929][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.50:286][145]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.52:078][331]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.53:333][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.54:725][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-08.50.56:170][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.50.56:273][751]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-08.50.56:294][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.50.56:294][751]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:50:56)
+[2019.08.25-08.50.56:294][751]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.50.56:363][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068858s)
+[2019.08.25-08.50.56:364][751]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.50.56:364][751]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.08.25-08.50.56:364][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.070151s)
+[2019.08.25-08.50.56:462][751]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.50.56:538][751]LogInit: FAudioDevice initialized.
+[2019.08.25-08.50.56:573][751]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.50.56:601][751]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.50.56
+[2019.08.25-08.50.56:605][751]LogWorld: Bringing up level for play took: 0.031104
+[2019.08.25-08.50.56:620][751]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.59
+[2019.08.25-08.50.58:130][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.50.58:172][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.50.58:224][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.50.58:251][854]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.25-08.50.59:266][973]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-08.51.01:045][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.51.02:454][248]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-08.51.02:472][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.51.02:472][248]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:51:02)
+[2019.08.25-08.51.02:472][248]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.51.02:538][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066395s)
+[2019.08.25-08.51.02:539][248]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.51.02:540][248]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2019.08.25-08.51.02:540][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.067718s)
+[2019.08.25-08.51.02:630][248]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.51.02:705][248]LogInit: FAudioDevice initialized.
+[2019.08.25-08.51.02:735][248]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.51.02:764][248]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.51.02
+[2019.08.25-08.51.02:767][248]LogWorld: Bringing up level for play took: 0.031098
+[2019.08.25-08.51.02:782][248]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.429
+[2019.08.25-08.51.03:882][327]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-08.51.26:238][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.51.26:393][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.51.26:441][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.51.26:488][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.51.26:518][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.25-08.51.28:884][254]Candidate modules for hot reload:
+[2019.08.25-08.51.28:884][254]  LudensVR_Project_01
+[2019.08.25-08.51.28:884][254]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,792 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-08.51.28:887][254]Warning: Starting HotReload took  0.0s.
+[2019.08.25-08.51.32:593][315]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 2:51:32
+[2019.08.25-08.51.32:593][315]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-08.51.32:593][315]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-08.51.32:593][315]CompilerResultsLog: Target is up to date
+[2019.08.25-08.51.32:593][315]CompilerResultsLog: Total build time: 2.93 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.08.25-08.51.32:593][315]LogMainFrame: MainFrame: Module compiling took 3.736 seconds
+[2019.08.25-08.51.32:657][315]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-08.51.32:657][315]Display: HotReload took  3.8s.
+[2019.08.25-08.51.45:643][353]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-08.51.45:665][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.51.45:665][353]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:51:45)
+[2019.08.25-08.51.45:665][353]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.51.45:731][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065468s)
+[2019.08.25-08.51.45:732][353]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.51.45:732][353]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2019.08.25-08.51.45:732][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.066586s)
+[2019.08.25-08.51.45:818][353]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.51.45:889][353]LogInit: FAudioDevice initialized.
+[2019.08.25-08.51.45:925][353]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.51.45:953][353]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.51.45
+[2019.08.25-08.51.45:957][353]LogWorld: Bringing up level for play took: 0.031224
+[2019.08.25-08.51.45:972][353]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.761
+[2019.08.25-08.51.46:763][412]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-08.51.59:045][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.51.59:151][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.51.59:195][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.51.59:241][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.51.59:269][572]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.08.25-08.55.39:645][621]LogEditorViewport: Clicking on Actor (LMB): LV_Diary (LV_Diary1)
+[2019.08.25-08.55.40:564][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.55.40:644][687]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-08.55.40:663][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.55.40:663][687]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:55:40)
+[2019.08.25-08.55.40:664][687]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.55.40:735][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071151s)
+[2019.08.25-08.55.40:736][687]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.55.40:736][687]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2019.08.25-08.55.40:736][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.072771s)
+[2019.08.25-08.55.40:824][687]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.55.40:898][687]LogInit: FAudioDevice initialized.
+[2019.08.25-08.55.40:934][687]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.55.40:966][687]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.55.40
+[2019.08.25-08.55.40:970][687]LogWorld: Bringing up level for play took: 0.035863
+[2019.08.25-08.55.40:986][687]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.225
+[2019.08.25-08.55.41:880][741]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-08.55.43:569][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.55.43:664][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.55.43:709][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.55.43:756][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.55.43:784][888]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.25-08.55.44:569][978]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-08.55.47:430][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.55.47:514][244]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-08.55.47:532][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.55.47:532][244]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:55:47)
+[2019.08.25-08.55.47:532][244]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.55.47:601][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068427s)
+[2019.08.25-08.55.47:602][244]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.55.47:602][244]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2019.08.25-08.55.47:602][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.069900s)
+[2019.08.25-08.55.47:685][244]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.55.47:755][244]LogInit: FAudioDevice initialized.
+[2019.08.25-08.55.47:785][244]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.55.47:812][244]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.55.47
+[2019.08.25-08.55.47:816][244]LogWorld: Bringing up level for play took: 0.030817
+[2019.08.25-08.55.47:831][244]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.62
+[2019.08.25-08.55.49:921][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.55.49:965][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.55.50:014][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.55.50:040][485]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.25-08.55.52:638][744]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-08.55.52:657][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-08.55.52:657][744]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 2:55:52)
+[2019.08.25-08.55.52:657][744]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-08.55.52:721][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064326s)
+[2019.08.25-08.55.52:722][744]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-08.55.52:722][744]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2019.08.25-08.55.52:722][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.065578s)
+[2019.08.25-08.55.52:806][744]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-08.55.52:876][744]LogInit: FAudioDevice initialized.
+[2019.08.25-08.55.52:905][744]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-08.55.52:933][744]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-17.55.52
+[2019.08.25-08.55.52:937][744]LogWorld: Bringing up level for play took: 0.031240
+[2019.08.25-08.55.52:952][744]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.259
+[2019.08.25-08.55.53:860][828]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-08.56.02:093][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-08.56.02:193][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.56.02:237][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-08.56.02:284][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-08.56.02:310][563]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.25-08.57.38:154][ 36]Candidate modules for hot reload:
+[2019.08.25-08.57.38:155][ 36]  LudensVR_Project_01
+[2019.08.25-08.57.38:155][ 36]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,378 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-08.57.38:158][ 36]Warning: Starting HotReload took  0.1s.
+[2019.08.25-08.58.00:190][935]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 2:58:00
+[2019.08.25-08.58.00:190][935]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-08.58.00:190][935]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-08.58.00:190][935]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-08.58.00:190][935]CompilerResultsLog:   [1/3] LV_DiaryWidget.cpp
+[2019.08.25-08.58.00:190][935]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-378.lib
+[2019.08.25-08.58.00:190][935]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-378.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-378.exp ??u?? ??????? ??????.
+[2019.08.25-08.58.00:191][935]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-378.dll
+[2019.08.25-08.58.00:191][935]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-378.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-378.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-08.58.00:191][935]CompilerResultsLog: Total build time: 21.56 seconds (Parallel executor: 18.42 seconds)
+[2019.08.25-08.58.00:191][935]LogMainFrame: MainFrame: Module compiling took 22.058 seconds
+[2019.08.25-08.58.00:271][935]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-08.58.00:271][935]LogClass: EButtonEnum HotReload.
+[2019.08.25-08.58.00:271][935]LogClass: EGrip_Object HotReload.
+[2019.08.25-08.58.00:271][935]LogClass: EGrip_Code HotReload.
+[2019.08.25-08.58.00:275][935]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-08.58.00:372][935]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-08.58.00:475][935]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-08.58.00:571][935]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-08.58.00:668][935]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0008 seconds. Added 21 classes and 4 folders.
+[2019.08.25-08.58.00:671][935]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-08.58.00:760][935]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-08.58.00:760][935]Display: HotReload took 22.7s.
+[2019.08.25-08.58.34:932][486]LogSlate: Took 0.000539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-08.58.34:943][486]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.DiaryWidget_Menu
+[2019.08.25-08.58.35:819][486]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.08.25-08.58.36:861][486]LogSlate: Took 0.000544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.25-08.58.45:692][ 11]LogSlate: Window '색 선택 툴' being destroyed
+[2019.08.25-08.59.18:222][957]BlueprintLog: New page: DiaryWidget_Menu 컴파일
+[2019.08.25-08.59.19:844][ 33]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3.DiaryWidget_Page3
+[2019.08.25-08.59.21:031][ 75]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page2.DiaryWidget_Page2
+[2019.08.25-08.59.26:903][383]LogSlate: Window '색 선택 툴' being destroyed
+[2019.08.25-08.59.33:127][768]BlueprintLog: New page: DiaryWidget_Page2 컴파일
+[2019.08.25-08.59.35:264][884]LogSlate: Window 'DiaryWidget_Page2*' being destroyed
+[2019.08.25-08.59.35:271][884]LogSlate: Window 'DiaryWidget_Page2*' being destroyed
+[2019.08.25-08.59.36:720][999]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3.DiaryWidget_Page3
+[2019.08.25-08.59.42:297][295]LogSlate: Window '색 선택 툴' being destroyed
+[2019.08.25-08.59.46:348][553]BlueprintLog: New page: DiaryWidget_Page3 컴파일
+[2019.08.25-08.59.47:980][642]LogSlate: Window 'DiaryWidget_Page3*' being destroyed
+[2019.08.25-08.59.47:996][642]LogSlate: Window 'DiaryWidget_Page3*' being destroyed
+[2019.08.25-08.59.51:852][995]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu_Button_G.DiaryWidget_Menu_Button_G
+[2019.08.25-08.59.53:899][109]LogSlate: Window 'DiaryWidget_Menu_Button_G' being destroyed
+[2019.08.25-08.59.53:913][109]LogSlate: Window 'DiaryWidget_Menu_Button_G' being destroyed
+[2019.08.25-08.59.55:147][225]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.DiaryWidget_Menu
+[2019.08.25-09.00.02:323][648]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.00.02:335][648]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.00.07:989][311]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.00.08:008][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.00.08:009][311]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:00:08)
+[2019.08.25-09.00.08:009][311]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.00.08:075][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065193s)
+[2019.08.25-09.00.08:075][311]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.00.08:076][311]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2019.08.25-09.00.08:076][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.066414s)
+[2019.08.25-09.00.08:178][311]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.00.08:253][311]LogInit: FAudioDevice initialized.
+[2019.08.25-09.00.08:285][311]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.00.08:315][311]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.00.08
+[2019.08.25-09.00.08:319][311]LogWorld: Bringing up level for play took: 0.033158
+[2019.08.25-09.00.08:334][311]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 1.123
+[2019.08.25-09.00.09:592][414]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.00.19:513][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-09.00.21:503][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.00.21:651][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.00.21:699][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.00.21:749][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.00.21:775][494]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.08.25-09.00.22:794][605]LogEditorViewport: Clicking on Actor (LMB): LV_Diary (LV_Diary1)
+[2019.08.25-09.00.24:023][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.00.24:130][705]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.00.24:149][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.00.24:149][705]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:00:24)
+[2019.08.25-09.00.24:149][705]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.00.24:218][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067685s)
+[2019.08.25-09.00.24:218][705]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.00.24:219][705]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.08.25-09.00.24:219][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.068958s)
+[2019.08.25-09.00.24:316][705]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.00.24:389][705]LogInit: FAudioDevice initialized.
+[2019.08.25-09.00.24:424][705]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.00.24:451][705]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.00.24
+[2019.08.25-09.00.24:455][705]LogWorld: Bringing up level for play took: 0.030673
+[2019.08.25-09.00.24:470][705]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 1.259
+[2019.08.25-09.00.25:489][776]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.00.29:757][151]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-09.00.31:037][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-09.00.36:982][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.00.37:101][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.00.37:143][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.00.37:192][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.00.37:221][802]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.08.25-09.01.05:175][687]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Natalis_Map_01_Auto188DC89BB47C9671B135B35ABAF50CF1E.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Autosaves/Game/Map/Natalis_Map_01_Auto1.umap'
+[2019.08.25-09.01.05:183][687]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Natalis_Map_01' took 1.587
+[2019.08.25-09.01.05:183][687]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.587
+[2019.08.25-09.01.05:187][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu] ([1] browsable assets)...
+[2019.08.25-09.01.05:187][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu]
+[2019.08.25-09.01.05:204][687]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/DiaryWidget_Menu_Auto1317593AE4BC1EDBEE297C2AF3ABF1998.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Autosaves/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu_Auto1.uasset'
+[2019.08.25-09.01.05:207][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page2] ([1] browsable assets)...
+[2019.08.25-09.01.05:207][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page2]
+[2019.08.25-09.01.05:222][687]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/DiaryWidget_Page2_Auto1BEF2C17940592F643875BA8BF08B2ABC.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Autosaves/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page2_Auto1.uasset'
+[2019.08.25-09.01.05:226][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3] ([1] browsable assets)...
+[2019.08.25-09.01.05:226][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3]
+[2019.08.25-09.01.05:239][687]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/DiaryWidget_Page3_Auto112351724421921CB63C9D6A9FB51B1BD.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Autosaves/Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3_Auto1.uasset'
+[2019.08.25-09.01.05:242][687]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.08.25-09.02.15:058][ 53]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.02.15:075][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.02.15:075][ 53]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:02:15)
+[2019.08.25-09.02.15:075][ 53]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.02.15:138][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062451s)
+[2019.08.25-09.02.15:139][ 53]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.02.15:139][ 53]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.08.25-09.02.15:139][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.063505s)
+[2019.08.25-09.02.15:224][ 53]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.02.15:295][ 53]LogInit: FAudioDevice initialized.
+[2019.08.25-09.02.15:330][ 53]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.02.15:356][ 53]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.02.15
+[2019.08.25-09.02.15:359][ 53]LogWorld: Bringing up level for play took: 0.028546
+[2019.08.25-09.02.15:374][ 53]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.163
+[2019.08.25-09.02.15:895][106]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.02.22:548][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.02.22:634][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.02.22:673][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.02.22:721][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.02.22:747][799]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.08.25-09.02.23:313][866]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.02.23:331][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.02.23:331][866]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:02:23)
+[2019.08.25-09.02.23:331][866]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.02.23:390][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059374s)
+[2019.08.25-09.02.23:391][866]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.02.23:391][866]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2019.08.25-09.02.23:391][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.060520s)
+[2019.08.25-09.02.23:474][866]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.02.23:539][866]LogInit: FAudioDevice initialized.
+[2019.08.25-09.02.23:573][866]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.02.23:599][866]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.02.23
+[2019.08.25-09.02.23:602][866]LogWorld: Bringing up level for play took: 0.027930
+[2019.08.25-09.02.23:617][866]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.406
+[2019.08.25-09.02.24:302][936]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.02.29:404][479]LogEditorViewport: Clicking on Actor (LMB): LV_Diary (LV_Diary1)
+[2019.08.25-09.02.30:375][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.02.30:952][606]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.DiaryWidget_Menu
+[2019.08.25-09.02.31:801][628]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.25-09.03.57:090][  0]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.03.57:097][  0]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.04.09:347][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.04.09:388][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.04.09:436][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.04.09:468][169]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.25-09.04.10:231][253]Candidate modules for hot reload:
+[2019.08.25-09.04.10:231][253]  LudensVR_Project_01
+[2019.08.25-09.04.10:232][253]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,1731 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.04.10:234][253]Warning: Starting HotReload took  0.1s.
+[2019.08.25-09.04.28:869][408]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:04:28
+[2019.08.25-09.04.28:869][408]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.04.28:869][408]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.04.28:869][408]CompilerResultsLog: Building 4 actions with 20 processes...
+[2019.08.25-09.04.28:869][408]CompilerResultsLog:   [1/4] LV_DiaryWidget.cpp
+[2019.08.25-09.04.28:869][408]CompilerResultsLog:   [2/4] LV_Diary.cpp
+[2019.08.25-09.04.28:869][408]CompilerResultsLog:   [3/4] UE4Editor-LudensVR_Project_01-1731.lib
+[2019.08.25-09.04.28:869][408]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1731.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1731.exp ??u?? ??????? ??????.
+[2019.08.25-09.04.28:870][408]CompilerResultsLog:   [4/4] UE4Editor-LudensVR_Project_01-1731.dll
+[2019.08.25-09.04.28:870][408]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1731.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1731.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.04.28:870][408]CompilerResultsLog: Total build time: 17.97 seconds (Parallel executor: 15.33 seconds)
+[2019.08.25-09.04.28:870][408]LogMainFrame: MainFrame: Module compiling took 18.661 seconds
+[2019.08.25-09.04.28:946][408]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.04.28:946][408]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.04.28:946][408]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.04.28:946][408]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.04.28:950][408]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.04.29:094][408]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.04.29:240][408]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.04.29:380][408]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.04.29:529][408]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0006 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.04.29:533][408]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.04.29:937][408]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.04.29:937][408]Display: HotReload took 19.8s.
+[2019.08.25-09.04.36:668][433]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.04.36:688][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.04.36:688][433]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:04:36)
+[2019.08.25-09.04.36:688][433]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.04.36:750][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061616s)
+[2019.08.25-09.04.36:750][433]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.04.36:751][433]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.08.25-09.04.36:751][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.062686s)
+[2019.08.25-09.04.36:891][433]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.04.36:955][433]LogInit: FAudioDevice initialized.
+[2019.08.25-09.04.36:985][433]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.04.37:011][433]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.04.37
+[2019.08.25-09.04.37:014][433]LogWorld: Bringing up level for play took: 0.028005
+[2019.08.25-09.04.37:029][433]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.182
+[2019.08.25-09.04.37:934][518]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.05.14:102][469]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.05.16:357][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.05.16:479][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.05.16:523][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.05.16:573][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.05.16:597][731]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.08.25-09.05.17:582][848]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.05.17:599][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.05.17:599][848]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:05:17)
+[2019.08.25-09.05.17:600][848]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.05.17:662][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062702s)
+[2019.08.25-09.05.17:663][848]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.05.17:663][848]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2019.08.25-09.05.17:664][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.064851s)
+[2019.08.25-09.05.17:751][848]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.05.17:816][848]LogInit: FAudioDevice initialized.
+[2019.08.25-09.05.17:846][848]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.05.17:873][848]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.05.17
+[2019.08.25-09.05.17:876][848]LogWorld: Bringing up level for play took: 0.029752
+[2019.08.25-09.05.17:891][848]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.68
+[2019.08.25-09.05.18:873][952]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.05.28:859][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.05.29:036][ 43]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.DiaryWidget_Menu
+[2019.08.25-09.05.41:970][844]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.05.41:977][844]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.05.44:014][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.05.44:055][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.05.44:100][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.05.44:130][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.08.25-09.05.44:722][ 87]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.05.44:739][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.05.44:739][ 87]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:05:44)
+[2019.08.25-09.05.44:739][ 87]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.05.44:801][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061729s)
+[2019.08.25-09.05.44:802][ 87]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.05.44:802][ 87]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2019.08.25-09.05.44:802][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.062824s)
+[2019.08.25-09.05.44:884][ 87]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.05.44:956][ 87]LogInit: FAudioDevice initialized.
+[2019.08.25-09.05.44:985][ 87]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.05.45:011][ 87]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.05.45
+[2019.08.25-09.05.45:014][ 87]LogWorld: Bringing up level for play took: 0.028388
+[2019.08.25-09.05.45:028][ 87]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.183
+[2019.08.25-09.05.45:687][144]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.05.56:572][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.05.56:685][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.05.56:729][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.05.56:776][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.05.56:804][354]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.08.25-09.06.09:306][753]Candidate modules for hot reload:
+[2019.08.25-09.06.09:306][753]  LudensVR_Project_01
+[2019.08.25-09.06.09:306][753]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,7580 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.06.09:309][753]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.06.28:268][ 17]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:06:28
+[2019.08.25-09.06.28:268][ 17]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.06.28:268][ 17]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog:   [1/3] LV_DiaryWidget.cpp
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-7580.lib
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7580.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7580.exp ??u?? ??????? ??????.
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-7580.dll
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7580.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-7580.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.06.28:269][ 17]CompilerResultsLog: Total build time: 18.53 seconds (Parallel executor: 15.71 seconds)
+[2019.08.25-09.06.28:269][ 17]LogMainFrame: MainFrame: Module compiling took 18.987 seconds
+[2019.08.25-09.06.28:341][ 17]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.06.28:341][ 17]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.06.28:341][ 17]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.06.28:341][ 17]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.06.28:345][ 17]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.06.28:489][ 17]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.06.28:639][ 17]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.06.28:777][ 17]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.06.28:934][ 17]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0006 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.06.28:939][ 17]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.06.29:351][ 17]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.06.29:351][ 17]Display: HotReload took 20.1s.
+[2019.08.25-09.06.30:983][210]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.06.31:001][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.06.31:001][210]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:06:31)
+[2019.08.25-09.06.31:001][210]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.06.31:059][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058034s)
+[2019.08.25-09.06.31:059][210]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.06.31:060][210]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.08.25-09.06.31:060][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.059059s)
+[2019.08.25-09.06.31:189][210]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.06.31:253][210]LogInit: FAudioDevice initialized.
+[2019.08.25-09.06.31:281][210]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.06.31:307][210]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.06.31
+[2019.08.25-09.06.31:311][210]LogWorld: Bringing up level for play took: 0.028644
+[2019.08.25-09.06.31:326][210]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.115
+[2019.08.25-09.06.32:415][314]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.06.43:960][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.06.44:096][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.06.44:135][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.06.44:190][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.06.44:235][609]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.08.25-09.06.44:875][684]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.06.44:892][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.06.44:892][684]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:06:44)
+[2019.08.25-09.06.44:893][684]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.06.44:956][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063396s)
+[2019.08.25-09.06.44:957][684]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.06.44:957][684]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.08.25-09.06.44:957][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.064435s)
+[2019.08.25-09.06.45:041][684]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.06.45:105][684]LogInit: FAudioDevice initialized.
+[2019.08.25-09.06.45:136][684]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.06.45:162][684]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.06.45
+[2019.08.25-09.06.45:165][684]LogWorld: Bringing up level for play took: 0.027996
+[2019.08.25-09.06.45:179][684]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.032
+[2019.08.25-09.06.46:195][787]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.06.51:983][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.06.52:111][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.06.52:156][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.06.52:204][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.06.52:233][427]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.08.25-09.07.05:451][638]Candidate modules for hot reload:
+[2019.08.25-09.07.05:451][638]  LudensVR_Project_01
+[2019.08.25-09.07.05:452][638]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,1687 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.07.05:454][638]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.07.23:292][778]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:07:23
+[2019.08.25-09.07.23:292][778]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.07.23:292][778]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.07.23:292][778]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.07.23:292][778]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-09.07.23:292][778]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-1687.lib
+[2019.08.25-09.07.23:292][778]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1687.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1687.exp ??u?? ??????? ??????.
+[2019.08.25-09.07.23:292][778]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-1687.dll
+[2019.08.25-09.07.23:292][778]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1687.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1687.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.07.23:292][778]CompilerResultsLog: Total build time: 17.31 seconds (Parallel executor: 14.66 seconds)
+[2019.08.25-09.07.23:292][778]LogMainFrame: MainFrame: Module compiling took 17.862 seconds
+[2019.08.25-09.07.23:361][778]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.07.23:361][778]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.07.23:361][778]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.07.23:361][778]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.07.23:365][778]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.07.23:504][778]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.07.23:657][778]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.07.23:795][778]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.07.23:943][778]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0006 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.07.23:947][778]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.07.24:345][778]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.07.24:345][778]Display: HotReload took 18.9s.
+[2019.08.25-09.07.26:035][783]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.07.26:055][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.07.26:055][783]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:07:26)
+[2019.08.25-09.07.26:055][783]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.07.26:113][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057735s)
+[2019.08.25-09.07.26:114][783]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.07.26:114][783]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2019.08.25-09.07.26:114][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.058777s)
+[2019.08.25-09.07.26:239][783]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.07.26:300][783]LogInit: FAudioDevice initialized.
+[2019.08.25-09.07.26:332][783]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.07.26:359][783]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.07.26
+[2019.08.25-09.07.26:362][783]LogWorld: Bringing up level for play took: 0.029013
+[2019.08.25-09.07.26:376][783]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 1.165
+[2019.08.25-09.07.27:203][857]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.07.35:996][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.07.36:099][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.07.36:142][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.07.36:198][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.07.36:239][829]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.25-09.07.43:540][701]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.07.44:449][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.07.44:548][812]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.07.44:565][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.07.44:565][812]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:07:44)
+[2019.08.25-09.07.44:565][812]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.07.44:628][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062653s)
+[2019.08.25-09.07.44:629][812]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.07.44:629][812]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2019.08.25-09.07.44:629][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.063767s)
+[2019.08.25-09.07.44:714][812]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.07.44:782][812]LogInit: FAudioDevice initialized.
+[2019.08.25-09.07.44:809][812]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.07.44:836][812]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.07.44
+[2019.08.25-09.07.44:840][812]LogWorld: Bringing up level for play took: 0.029804
+[2019.08.25-09.07.44:855][812]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.356
+[2019.08.25-09.07.46:077][933]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.08.11:345][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.08.11:623][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.08.11:668][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.08.11:714][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.08.11:748][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.08.25-09.08.17:115][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.08.17:115][724]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:08:17)
+[2019.08.25-09.08.17:115][724]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.08.17:177][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061716s)
+[2019.08.25-09.08.17:178][724]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.08.17:178][724]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.08.25-09.08.17:178][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.062818s)
+[2019.08.25-09.08.17:261][724]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.08.17:328][724]LogInit: FAudioDevice initialized.
+[2019.08.25-09.08.17:358][724]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.08.17:384][724]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.08.17
+[2019.08.25-09.08.17:387][724]LogWorld: Bringing up level for play took: 0.027933
+[2019.08.25-09.08.17:402][724]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.191
+[2019.08.25-09.08.18:841][881]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.08.30:106][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.08.30:218][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.08.30:260][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.08.30:308][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.08.30:335][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.08.25-09.10.28:272][104]Candidate modules for hot reload:
+[2019.08.25-09.10.28:272][104]  LudensVR_Project_01
+[2019.08.25-09.10.28:272][104]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,9687 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.10.28:275][104]Warning: Starting HotReload took  0.1s.
+[2019.08.25-09.10.48:563][518]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.DiaryWidget_Menu
+[2019.08.25-09.10.49:271][534]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:10:49
+[2019.08.25-09.10.49:271][534]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.10.49:271][534]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.10.49:271][534]CompilerResultsLog: Building 4 actions with 20 processes...
+[2019.08.25-09.10.49:271][534]CompilerResultsLog:   [1/4] LV_DiaryWidget.cpp
+[2019.08.25-09.10.49:271][534]CompilerResultsLog:   [2/4] LV_Diary.cpp
+[2019.08.25-09.10.49:271][534]CompilerResultsLog:   [3/4] UE4Editor-LudensVR_Project_01-9687.lib
+[2019.08.25-09.10.49:271][534]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9687.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9687.exp ??u?? ??????? ??????.
+[2019.08.25-09.10.49:271][534]CompilerResultsLog:   [4/4] UE4Editor-LudensVR_Project_01-9687.dll
+[2019.08.25-09.10.49:271][534]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9687.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9687.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.10.49:272][534]CompilerResultsLog: Total build time: 20.54 seconds (Parallel executor: 17.54 seconds)
+[2019.08.25-09.10.49:272][534]LogMainFrame: MainFrame: Module compiling took 21.021 seconds
+[2019.08.25-09.10.49:364][534]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.10.49:364][534]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.10.49:364][534]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.10.49:364][534]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.10.49:368][534]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.10.49:518][534]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.10.49:674][534]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.10.49:814][534]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.10.49:963][534]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0007 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.10.49:968][534]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.10.50:371][534]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.10.50:371][534]Display: HotReload took 22.2s.
+[2019.08.25-09.10.58:227][ 17]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.10.58:235][ 17]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.11.08:297][819]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.DiaryWidget_Menu
+[2019.08.25-09.11.12:971][ 87]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.848 s
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: 
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UMGEditor\Private\WidgetBlueprintEditor.cpp] [Line: 790]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: 
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: Stack: 
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ec6871f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ec3c0c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ec3db356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e3211a03 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::DestroyPreview() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:790]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e327ee3e UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::OnBlueprintChangedImpl() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:295]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e050fce9 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(UBlueprint * __ptr64)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8d65bd8d3 UE4Editor-Engine.dll!TBaseMulticastDelegate<void,UBlueprint * __ptr64>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cd3749b5 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::MarkBlueprintAsStructurallyModified() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:2139]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e32c92b7 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditorUtils::RenameWidget() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditorutils.cpp:259]
+[2019.08.25-09.11.12:971][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e326289e UE4Editor-UMGEditor.dll!SWidgetDetailsView::HandleNameTextCommitted() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\details\swidgetdetailsview.cpp:449]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e322b519 UE4Editor-UMGEditor.dll!TBaseSPMethodDelegateInstance<0,SWidgetDetailsView,0,void __cdecl(FText const & __ptr64,enum ETextCommit::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fae26a2e UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleFocusLost() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\text\slateeditabletextlayout.cpp:786]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fac393b0 UE4Editor-Slate.dll!FSlateApplication::SetUserFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2923]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fabd1444 UE4Editor-Slate.dll!FSlateApplication::ClearKeyboardFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2679]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e3286cd4 UE4Editor-UMGEditor.dll!SWidgetDetailsView::OnEditorSelectionChanging() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\details\swidgetdetailsview.cpp:211]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e3225a96 UE4Editor-UMGEditor.dll!TBaseRawMethodDelegateInstance<0,SWidgetDetailsView,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:503]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e31b73c4 UE4Editor-UMGEditor.dll!TBaseMulticastDelegate<void>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e32d6248 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::SelectWidgets() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:184]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e32d209e UE4Editor-UMGEditor.dll!SDesignerView::ResolvePendingSelectedWidgets() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\designer\sdesignerview.cpp:1676]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8e329470d UE4Editor-UMGEditor.dll!SDesignerView::OnMouseButtonDown() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\designer\sdesignerview.cpp:1724]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fab981ef UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_7097b900f0e4be30d80fb18f98c51ea0> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:268]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fac2ffe2 UE4Editor-Slate.dll!FSlateApplication::RoutePointerDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5369]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fac177ac UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5322]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fac0abba UE4Editor-Slate.dll!FSlateApplication::OnMouseDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5240]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff91d34d26f UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1744]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff91d340270 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2182]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff91d34f4c5 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:895]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff91d33c209 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:732]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93cbe681d USER32.dll!UnknownFunction []
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93cbe6212 USER32.dll!UnknownFunction []
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff91d350646 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff6bc6e54e5 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3417]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff6bc6f5b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff6bc6f5bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff6bc703dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff6bc705aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93c5e7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93d9cce71 ntdll.dll!UnknownFunction []
+[2019.08.25-09.11.12:972][ 87]LogOutputDevice: Error: 
+[2019.08.25-09.11.12:982][ 87]LogStats:                SubmitErrorReport -  0.000 s
+[2019.08.25-09.11.13:722][ 87]LogStats:                    SendNewReport -  0.741 s
+[2019.08.25-09.11.13:722][ 87]LogStats:             FDebug::EnsureFailed -  1.599 s
+[2019.08.25-09.11.13:722][ 87]LogBlueprint: Warning: [Compiler ] 누수 감지! CanvasPanel_0 ( Canvas Panel ) 에 아직 슬레이트 위젯이 살아있어, 그것 또는 부모 위젯에 의해 메모리에 남아있습니다. ReleaseSlateResources() 의 모든 슬레이트 리소스를 해제하세요.
+[2019.08.25-09.11.20:260][618]BlueprintLog: New page: DiaryWidget_Menu 컴파일
+[2019.08.25-09.11.22:753][786]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.11.22:759][786]LogSlate: Window 'DiaryWidget_Menu*' being destroyed
+[2019.08.25-09.11.46:606][  9]Candidate modules for hot reload:
+[2019.08.25-09.11.46:606][  9]  LudensVR_Project_01
+[2019.08.25-09.11.46:606][  9]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,6785 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.11.46:609][  9]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.12.06:000][327]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:12:06
+[2019.08.25-09.12.06:000][327]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.12.06:000][327]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.12.06:000][327]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.12.06:000][327]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-09.12.06:000][327]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-6785.lib
+[2019.08.25-09.12.06:000][327]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-6785.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-6785.exp ??u?? ??????? ??????.
+[2019.08.25-09.12.06:000][327]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-6785.dll
+[2019.08.25-09.12.06:000][327]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-6785.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-6785.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.12.06:000][327]CompilerResultsLog: Total build time: 18.96 seconds (Parallel executor: 16.23 seconds)
+[2019.08.25-09.12.06:000][327]LogMainFrame: MainFrame: Module compiling took 19.411 seconds
+[2019.08.25-09.12.06:103][327]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.12.06:103][327]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.12.06:103][327]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.12.06:103][327]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.12.06:107][327]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.12.06:250][327]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.12.06:393][327]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.12.06:529][327]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.12.06:679][327]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0006 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.12.06:684][327]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.12.07:073][327]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.12.07:073][327]Display: HotReload took 20.5s.
+[2019.08.25-09.12.14:541][942]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/Natalis_Map_01CACA470F463DDDC76C510C9E483D7335.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Map/Natalis_Map_01.umap'
+[2019.08.25-09.12.14:576][942]LogFileHelpers: Saving map 'Natalis_Map_01' took 2.031
+[2019.08.25-09.12.14:598][942]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/DiaryWidget_Menu06E9B2634C8008EBCDE456A76ABEE8CA.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Menu.uasset'
+[2019.08.25-09.12.14:618][942]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/DiaryWidget_Page2A498D031492CFFBBA9870EB5D074B3B2.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page2.uasset'
+[2019.08.25-09.12.14:637][942]LogSavePackage: Moving '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Saved/DiaryWidget_Page3D80DB80B4DB957E38BBEADA4FE3E1B5C.tmp' to '../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/Content/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3.uasset'
+[2019.08.25-09.12.16:874][206]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.12.16:891][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.12.16:892][206]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:12:16)
+[2019.08.25-09.12.16:892][206]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.12.16:959][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067153s)
+[2019.08.25-09.12.16:959][206]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.12.16:959][206]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2019.08.25-09.12.16:960][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.068124s)
+[2019.08.25-09.12.17:044][206]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.12.17:107][206]LogInit: FAudioDevice initialized.
+[2019.08.25-09.12.17:135][206]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.12.17:161][206]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.12.17
+[2019.08.25-09.12.17:164][206]LogWorld: Bringing up level for play took: 0.027857
+[2019.08.25-09.12.17:178][206]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.033
+[2019.08.25-09.12.17:876][276]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.12.23:174][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.12.23:302][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.12.23:345][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.12.23:390][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.12.23:414][843]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.08.25-09.12.26:535][216]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.12.26:552][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.12.26:552][216]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:12:26)
+[2019.08.25-09.12.26:552][216]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.12.26:613][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060204s)
+[2019.08.25-09.12.26:613][216]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.12.26:614][216]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2019.08.25-09.12.26:614][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.061439s)
+[2019.08.25-09.12.26:692][216]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.12.26:758][216]LogInit: FAudioDevice initialized.
+[2019.08.25-09.12.26:787][216]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.12.26:812][216]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.12.26
+[2019.08.25-09.12.26:815][216]LogWorld: Bringing up level for play took: 0.028100
+[2019.08.25-09.12.26:829][216]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.382
+[2019.08.25-09.12.28:115][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.12.28:155][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.12.28:198][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.12.28:232][354]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.08.25-09.14.40:805][443]Candidate modules for hot reload:
+[2019.08.25-09.14.40:805][443]  LudensVR_Project_01
+[2019.08.25-09.14.40:805][443]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,9605 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.14.40:807][443]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.15.00:178][746]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:15:00
+[2019.08.25-09.15.00:178][746]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.15.00:178][746]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.15.00:178][746]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.15.00:178][746]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-09.15.00:178][746]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-9605.lib
+[2019.08.25-09.15.00:178][746]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9605.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9605.exp ??u?? ??????? ??????.
+[2019.08.25-09.15.00:178][746]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-9605.dll
+[2019.08.25-09.15.00:178][746]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9605.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-9605.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.15.00:178][746]CompilerResultsLog: Total build time: 18.92 seconds (Parallel executor: 16.07 seconds)
+[2019.08.25-09.15.00:178][746]LogMainFrame: MainFrame: Module compiling took 19.392 seconds
+[2019.08.25-09.15.00:252][746]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.15.00:252][746]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.15.00:252][746]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.15.00:252][746]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.15.00:256][746]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.15.00:398][746]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.15.00:538][746]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.15.00:666][746]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.15.00:804][746]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0007 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.15.00:809][746]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.15.01:216][746]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.15.01:217][746]Display: HotReload took 20.4s.
+[2019.08.25-09.15.03:303][994]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.15.03:321][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.15.03:321][994]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:15:03)
+[2019.08.25-09.15.03:321][994]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.15.03:384][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062512s)
+[2019.08.25-09.15.03:385][994]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.15.03:385][994]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2019.08.25-09.15.03:385][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.063732s)
+[2019.08.25-09.15.03:510][994]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.15.03:573][994]LogInit: FAudioDevice initialized.
+[2019.08.25-09.15.03:602][994]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.15.03:628][994]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.15.03
+[2019.08.25-09.15.03:631][994]LogWorld: Bringing up level for play took: 0.027998
+[2019.08.25-09.15.03:646][994]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.435
+[2019.08.25-09.15.04:503][ 77]LogEditorViewport: Clicking on Actor (LMB): LV_Diary (LV_Diary1)
+[2019.08.25-09.15.04:664][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.25-09.15.05:783][168]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.15.17:924][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.15.18:035][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.15.18:077][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.15.18:129][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.15.18:167][529]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.08.25-09.19.18:270][667]Candidate modules for hot reload:
+[2019.08.25-09.19.18:271][667]  LudensVR_Project_01
+[2019.08.25-09.19.18:271][667]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,1780 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.19.18:274][667]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.19.37:684][985]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:19:37
+[2019.08.25-09.19.37:684][985]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.19.37:684][985]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.19.37:684][985]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.19.37:684][985]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-09.19.37:684][985]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-1780.lib
+[2019.08.25-09.19.37:684][985]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1780.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1780.exp ??u?? ??????? ??????.
+[2019.08.25-09.19.37:684][985]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-1780.dll
+[2019.08.25-09.19.37:684][985]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1780.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-1780.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.19.37:684][985]CompilerResultsLog: Total build time: 18.97 seconds (Parallel executor: 16.24 seconds)
+[2019.08.25-09.19.37:684][985]LogMainFrame: MainFrame: Module compiling took 19.438 seconds
+[2019.08.25-09.19.37:754][985]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.19.37:754][985]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.19.37:754][985]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.19.37:754][985]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.19.37:758][985]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.19.37:898][985]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.19.38:036][985]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.19.38:166][985]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.19.38:304][985]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0006 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.19.38:308][985]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.19.38:758][985]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.19.38:759][985]Display: HotReload took 20.5s.
+[2019.08.25-09.20.15:264][357]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.20.15:281][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.20.15:281][357]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:20:15)
+[2019.08.25-09.20.15:281][357]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.20.15:347][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065810s)
+[2019.08.25-09.20.15:349][357]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.20.15:349][357]LogPlayLevel: PIE: World Init took: (0.001895s)
+[2019.08.25-09.20.15:350][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.068402s)
+[2019.08.25-09.20.15:482][357]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.20.15:546][357]LogInit: FAudioDevice initialized.
+[2019.08.25-09.20.15:576][357]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.20.15:602][357]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.20.15
+[2019.08.25-09.20.15:606][357]LogWorld: Bringing up level for play took: 0.028668
+[2019.08.25-09.20.15:621][357]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 0.41
+[2019.08.25-09.20.22:167][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.20.22:211][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.20.22:263][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.20.22:308][139]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.08.25-09.25.21:704][270]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page3.DiaryWidget_Page3
+[2019.08.25-09.25.39:369][664]LogSlate: Window 'DiaryWidget_Page3' being destroyed
+[2019.08.25-09.25.39:377][664]LogSlate: Window 'DiaryWidget_Page3' being destroyed
+[2019.08.25-09.25.43:774][178]Candidate modules for hot reload:
+[2019.08.25-09.25.43:774][178]  LudensVR_Project_01
+[2019.08.25-09.25.43:774][178]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,999 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.25.43:776][178]Warning: Starting HotReload took  0.1s.
+[2019.08.25-09.25.53:694][345]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Natalis/Diary/InteractiveScreenTut/DiaryWidget_Page2.DiaryWidget_Page2
+[2019.08.25-09.25.57:053][571]LogSlate: Window 'DiaryWidget_Page2' being destroyed
+[2019.08.25-09.25.57:060][571]LogSlate: Window 'DiaryWidget_Page2' being destroyed
+[2019.08.25-09.26.16:532][959]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:26:16
+[2019.08.25-09.26.16:533][959]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.26.16:533][959]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.26.16:533][959]CompilerResultsLog: Parsing headers for LudensVR_Project_01Editor
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   Running UnrealHeaderTool "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\LudensVR_Project_01.uproject" "D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\LudensVR_Project_01Editor\Development\LudensVR_Project_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.25-09.26.16:533][959]CompilerResultsLog: Reflection code generated for LudensVR_Project_01Editor in 13.9468089 seconds
+[2019.08.25-09.26.16:533][959]CompilerResultsLog: Building 6 actions with 20 processes...
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   [1/6] LudensVR_Project_01.init.gen.cpp
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   [2/6] LV_Diary.gen.cpp
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   [3/6] TP_MotionController.cpp
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   [4/6] LV_Diary.cpp
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   [5/6] UE4Editor-LudensVR_Project_01-999.lib
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-999.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-999.exp ??u?? ??????? ??????.
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:   [6/6] UE4Editor-LudensVR_Project_01-999.dll
+[2019.08.25-09.26.16:533][959]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-999.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-999.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.26.16:533][959]CompilerResultsLog: Total build time: 32.14 seconds (Parallel executor: 15.34 seconds)
+[2019.08.25-09.26.16:533][959]LogMainFrame: MainFrame: Module compiling took 32.782 seconds
+[2019.08.25-09.26.16:585][959]LogClass: Could not find existing class LV_Diary in package /Script/LudensVR_Project_01 for HotReload, assuming new class
+[2019.08.25-09.26.16:585][959]LogClass: Function CollisionMenuEnabled is new.
+[2019.08.25-09.26.16:585][959]LogClass: Function LoadGame is new.
+[2019.08.25-09.26.16:585][959]LogClass: Function OnExplode is new.
+[2019.08.25-09.26.16:585][959]LogClass: Function OnOverlapBegin is new.
+[2019.08.25-09.26.16:585][959]LogClass: Function OnOverlapEnd is new.
+[2019.08.25-09.26.16:585][959]LogClass: Function SaveGame is new.
+[2019.08.25-09.26.16:604][959]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.26.16:604][959]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.26.16:604][959]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.26.16:604][959]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.26.16:616][959]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.26.16:758][959]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.26.16:910][959]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.26.17:044][959]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.26.17:192][959]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0007 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.26.17:197][959]Display: HotReload successful (69 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.26.17:588][959]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.26.17:588][959]Display: HotReload took 33.9s.
+[2019.08.25-09.26.25:938][321]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.26.25:955][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.26.25:955][321]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:26:25)
+[2019.08.25-09.26.25:955][321]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.26.26:015][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059778s)
+[2019.08.25-09.26.26:015][321]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.26.26:016][321]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2019.08.25-09.26.26:016][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.060810s)
+[2019.08.25-09.26.26:123][321]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.26.26:188][321]LogInit: FAudioDevice initialized.
+[2019.08.25-09.26.26:216][321]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.26.26:242][321]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.26.26
+[2019.08.25-09.26.26:246][321]LogWorld: Bringing up level for play took: 0.028831
+[2019.08.25-09.26.26:261][321]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: 1.05
+[2019.08.25-09.26.27:196][418]LogEditorViewport: Clicking on Actor (LMB): LV_Pen (LV_Pen1)
+[2019.08.25-09.26.31:347][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.26.31:393][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.26.31:440][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.26.31:465][825]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.08.25-09.26.39:882][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-09.26.40:063][103]Candidate modules for hot reload:
+[2019.08.25-09.26.40:063][103]  LudensVR_Project_01
+[2019.08.25-09.26.40:063][103]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,3611 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.26.40:065][103]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.26.59:427][416]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:26:59
+[2019.08.25-09.26.59:427][416]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.26.59:427][416]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.26.59:427][416]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.26.59:427][416]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-09.26.59:428][416]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-3611.lib
+[2019.08.25-09.26.59:428][416]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3611.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3611.exp ??u?? ??????? ??????.
+[2019.08.25-09.26.59:428][416]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-3611.dll
+[2019.08.25-09.26.59:428][416]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3611.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3611.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.26.59:428][416]CompilerResultsLog: Total build time: 18.92 seconds (Parallel executor: 16.09 seconds)
+[2019.08.25-09.26.59:428][416]LogMainFrame: MainFrame: Module compiling took 19.381 seconds
+[2019.08.25-09.26.59:495][416]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.26.59:495][416]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.26.59:495][416]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.26.59:495][416]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.26.59:499][416]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.26.59:640][416]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.26.59:778][416]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.26.59:908][416]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.27.00:049][416]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0005 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.27.00:053][416]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.27.00:442][416]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.27.00:442][416]Display: HotReload took 20.4s.
+[2019.08.25-09.27.02:814][699]LogTemp: Repeating last play command: 시뮬레이트
+[2019.08.25-09.27.02:830][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.27.02:831][699]PIE: New page: SIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:27:02)
+[2019.08.25-09.27.02:831][699]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.27.02:891][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059726s)
+[2019.08.25-09.27.02:891][699]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.27.02:891][699]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2019.08.25-09.27.02:892][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.060835s)
+[2019.08.25-09.27.03:019][699]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-09.27.03:084][699]LogInit: FAudioDevice initialized.
+[2019.08.25-09.27.03:118][699]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.27.03:144][699]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.27.03
+[2019.08.25-09.27.03:147][699]LogWorld: Bringing up level for play took: 0.028123
+[2019.08.25-09.27.03:162][699]PIE: /Game/Map/UEDPIE_0_Natalis_Map_01 에 대한 에디터에서 플레이 시작 시간: -0.049
+[2019.08.25-09.27.04:284][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.27.04:326][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-09.27.04:377][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.27.04:424][829]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.08.25-09.27.28:373][998]Candidate modules for hot reload:
+[2019.08.25-09.27.28:373][998]  LudensVR_Project_01
+[2019.08.25-09.27.28:374][998]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LudensVR_Project_01,3348 Win64 Development -TargetType=Editor -Project="../../../../../Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" -canskiplink "D:/Mars_GitHub/LudensVR_Project_02/LudensVR_Project_02/LudensVR_Project_01.uproject" ]
+[2019.08.25-09.27.28:377][998]Warning: Starting HotReload took  0.0s.
+[2019.08.25-09.27.46:049][264]CompilerResultsLog: New page: 컴파일 - 2019. 8. 26. 오전 3:27:46
+[2019.08.25-09.27.46:050][264]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.08.25-09.27.46:050][264]CompilerResultsLog: Compiling game modules for hot reload
+[2019.08.25-09.27.46:050][264]CompilerResultsLog: Building 3 actions with 20 processes...
+[2019.08.25-09.27.46:050][264]CompilerResultsLog:   [1/3] LV_Diary.cpp
+[2019.08.25-09.27.46:050][264]CompilerResultsLog:   [2/3] UE4Editor-LudensVR_Project_01-3348.lib
+[2019.08.25-09.27.46:050][264]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3348.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3348.exp ??u?? ??????? ??????.
+[2019.08.25-09.27.46:050][264]CompilerResultsLog:   [3/3] UE4Editor-LudensVR_Project_01-3348.dll
+[2019.08.25-09.27.46:050][264]CompilerResultsLog:      D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3348.suppressed.lib ???????? ?? D:\Mars_GitHub\LudensVR_Project_02\LudensVR_Project_02\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01-3348.suppressed.exp ??u?? ??????? ??????.
+[2019.08.25-09.27.46:050][264]CompilerResultsLog: Total build time: 17.00 seconds (Parallel executor: 14.29 seconds)
+[2019.08.25-09.27.46:050][264]LogMainFrame: MainFrame: Module compiling took 17.697 seconds
+[2019.08.25-09.27.46:156][264]LogClass: EDIARYPAGE HotReload.
+[2019.08.25-09.27.46:156][264]LogClass: EButtonEnum HotReload.
+[2019.08.25-09.27.46:156][264]LogClass: EGrip_Object HotReload.
+[2019.08.25-09.27.46:156][264]LogClass: EGrip_Code HotReload.
+[2019.08.25-09.27.46:163][264]LogHotReload: Re-instancing LV_Diary after hot-reload.
+[2019.08.25-09.27.46:322][264]LogHotReload: Re-instancing LV_Door after hot-reload.
+[2019.08.25-09.27.46:513][264]LogHotReload: Re-instancing LV_Event after hot-reload.
+[2019.08.25-09.27.46:689][264]LogHotReload: Re-instancing LV_Pen after hot-reload.
+[2019.08.25-09.27.46:868][264]LogContentBrowser: Native class hierarchy updated for 'LudensVR_Project_01' in 0.0007 seconds. Added 21 classes and 4 folders.
+[2019.08.25-09.27.46:874][264]Display: HotReload successful (75 functions remapped  0 scriptstructs remapped)
+[2019.08.25-09.27.47:324][264]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2594 classes and 609 folders.
+[2019.08.25-09.27.47:324][264]Display: HotReload took 19.0s.
+[2019.08.25-09.27.52:836][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-09.27.52:836][644]LogHMD: Initializing OVRPlugin session
+[2019.08.25-09.27.52:922][644]PIE: New page: PIE 세션: Natalis_Map_01 (2019. 8. 26. 오전 3:27:52)
+[2019.08.25-09.27.52:922][644]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Natalis_Map_01
+[2019.08.25-09.27.52:987][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065049s)
+[2019.08.25-09.27.52:988][644]LogAIModule: Creating AISystem for world Natalis_Map_01
+[2019.08.25-09.27.52:988][644]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.08.25-09.27.52:988][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Natalis_Map_01.Natalis_Map_01 to /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 (0.066113s)
+[2019.08.25-09.27.53:123][644]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.25-09.27.53:163][644]LogInit: FAudioDevice initialized.
+[2019.08.25-09.27.53:193][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-09.27.53:295][644]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.08.25-09.27.53:326][644]LogLoad: Game class is 'TP_VRGameModeBaseCPP'
+[2019.08.25-09.27.53:361][644]LogWorld: Bringing World /Game/Map/UEDPIE_0_Natalis_Map_01.Natalis_Map_01 up for play (max tick rate 0) at 2019.08.25-18.27.53
+[2019.08.25-09.27.53:365][644]LogWorld: Bringing up level for play took: 0.037961

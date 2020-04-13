@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\LudensVR_Project_01.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{21BF8A7D-F038-4B4E-A520-21AE6B2E25C7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\LudensVR_Project_01.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\LudensVR_Project_01Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{31CB41F5-0BCE-4416-899B-AAABAC35B5A1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultScalability.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\LudensVR_Project_01">
+			<UniqueIdentifier>{594B5549-AFC2-4CB0-85EF-E9ED6178C0C6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\LudensVR_Project_01\LudensVR_Project_01.Build.cs">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\LudensVR_Project_01.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\LudensVR_Project_01.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_HandAnimInstance.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_HandAnimInstance.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_InteractionInterface.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_InteractionInterface.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_MotionController.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_MotionController.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_PickupCube.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_PickupCube.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_VirtualRealityPawn_GamePad.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_VirtualRealityPawn_GamePad.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_VirtualRealityPawn_Motion.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_VirtualRealityPawn_Motion.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_VRDataTable.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_VRDataTable.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\TP_VRGameModeBaseCPP.cpp">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\TP_VRGameModeBaseCPP.h">
+			<Filter>Source\LudensVR_Project_01</Filter>
+		</ClInclude >
+		<Filter Include="Source\LudensVR_Project_01\Private">
+			<UniqueIdentifier>{43272F7D-9064-43D2-82F0-8ACB330EC79E}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\GM_Lobby.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\GM_LobbyWidget.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\GM_Logo.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\GM_LogoWidget.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_Diary.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_DiaryWidget.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_Event.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_Holder.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_Lantern.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_PawnMovementComponent.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_Pen.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\LV_VirtualRealityCharacter.cpp">
+			<Filter>Source\LudensVR_Project_01\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\LudensVR_Project_01\Private\Object">
+			<UniqueIdentifier>{E0CE1842-F121-4BAD-ADBE-DE0AF5BBB820}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\Object\LV_Door.cpp">
+			<Filter>Source\LudensVR_Project_01\Private\Object</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\Object\LV_Lamp.cpp">
+			<Filter>Source\LudensVR_Project_01\Private\Object</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\Object\LV_Mannequin.cpp">
+			<Filter>Source\LudensVR_Project_01\Private\Object</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\Object\LV_NewsPaper.cpp">
+			<Filter>Source\LudensVR_Project_01\Private\Object</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\Object\LV_Stair.cpp">
+			<Filter>Source\LudensVR_Project_01\Private\Object</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\LudensVR_Project_01\Private\Object\LV_Wall.cpp">
+			<Filter>Source\LudensVR_Project_01\Private\Object</Filter>
+		</ClCompile >
+		<Filter Include="Source\LudensVR_Project_01\Public">
+			<UniqueIdentifier>{9CF6ADAF-B4B7-4BE4-9D48-B3F1BE72B482}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\GM_Lobby.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\GM_LobbyWidget.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\GM_Logo.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\GM_LogoWidget.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_Diary.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_DiaryWidget.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_Event.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_Holder.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_Lantern.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_PawnMovementComponent.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_Pen.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\LV_VirtualRealityCharacter.h">
+			<Filter>Source\LudensVR_Project_01\Public</Filter>
+		</ClInclude >
+		<Filter Include="Source\LudensVR_Project_01\Public\Object">
+			<UniqueIdentifier>{0B8F4200-0888-4AB7-9344-ADD3E582ACD4}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\Object\LV_Door.h">
+			<Filter>Source\LudensVR_Project_01\Public\Object</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\Object\LV_Lamp.h">
+			<Filter>Source\LudensVR_Project_01\Public\Object</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\Object\LV_Mannequin.h">
+			<Filter>Source\LudensVR_Project_01\Public\Object</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\Object\LV_NewsPaper.h">
+			<Filter>Source\LudensVR_Project_01\Public\Object</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\Object\LV_Stair.h">
+			<Filter>Source\LudensVR_Project_01\Public\Object</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\LudensVR_Project_01\Public\Object\LV_Wall.h">
+			<Filter>Source\LudensVR_Project_01\Public\Object</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
